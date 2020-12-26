@@ -6,9 +6,9 @@ excerpt: "Recent Presentations"
 
 ## Working papers
 
-**Happy birthday? Manipulation and Selection in Unemployment Insurance** with Kilian Russ and [Vincenzo Scrutinio](https://sites.google.com/view/vincenzoscrutinio/home)
+**Happy birthday? Manipulation and Selection in Unemployment Insurance** 
+<font size="-1">with Kilian Russ and [Vincenzo Scrutinio](https://sites.google.com/view/vincenzoscrutinio/home)</font>
 
-This **word** is bold. This   <font size="-1">This is smaller text.</font> is smaller
 
 
 
