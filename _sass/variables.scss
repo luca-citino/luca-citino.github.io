@@ -6,15 +6,10 @@
    Typography
    ========================================================================== */
 
-<<<<<<< HEAD
-$doc-font-size: 24;
-$doc-line-height: 0;
-=======
 $doc-font-size: 16;
 $doc-line-height: 30;
->>>>>>> parent of 906ef76... Update variables.scss
 $paragraph-indent: 0;
-$base-font: 'PT Sans Narrow', sans-serif;
+$base-font: 'PT Serif', serif;
 $heading-font: 'PT Sans Narrow', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
@@ -57,7 +52,7 @@ $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
 /* links */
-$linkcolor 		    : #006F67;
+$linkcolor 		    : #343434;
 $link-color       : $linkcolor;
 $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 20);
