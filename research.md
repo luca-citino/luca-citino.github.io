@@ -16,4 +16,4 @@ title: Research
 **Are subsidies to apprenticeships a bad deal? Evidence from a recent Italian reform** <font size="-1">with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a></font> 
  
 ### Other publications
-**Accessing development assistance data and statistics** <font size="-1">with <a href="http://eduardomissoni.info/?lang=en">Eduardo Missoni</a> in <i>Management of International Institutions and NGOs, pp 227-236</i></font> 
+**Accessing development assistance data and statistics** <font size="-1">with <a href="http://eduardomissoni.info/?lang=en">Eduardo Missoni</a> in <i>Management of International Institutions and NGOs (2013) Routledge. pp 227-236</i></font> 
