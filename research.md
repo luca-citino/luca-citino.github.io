@@ -17,8 +17,6 @@ title: Research
 
 ### Policy papers
 **Tackling the emergency. The scaling up of productive capacity in the Italian Health System: progress overview** <font size="-1">with Luciana Aimone Gigio, Domenico Depalo, Maura Francese and Andrea Petrella [<a href="https://www.bancaditalia.it/media/notizie/2020/2020_HealthPolicies_progress_v6_External.pdf?language_id=1">Bank of Italy Covid-19 Note</a>] - [<a href="https://www.bancaditalia.it/media/notizie/2020/2020_HealthPolicies_Progress_v6_ITA_External.pdf">Italian version</a>] </font> 
-
-<font size="-1">Media coverage: Il Messaggero</font>
  
 ### Other publications
 **Accessing development assistance data and statistics** <font size="-1">with <a href="http://eduardomissoni.info/?lang=en">Eduardo Missoni</a> in <i>Management of International Institutions and NGOs (2013) Routledge. pp 227-236</i>
