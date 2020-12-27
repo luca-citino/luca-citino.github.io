@@ -9,4 +9,5 @@ layout: page
 
 **The impact of Chinese import competition on Italian manufacturing**
 
-- Online VisitINPS annual conference, July 2020
+- Online, July 2020 - *VisitINPS annual conference*
+- Rome, November 2019 - *BoI/INPS workshop on Labour market analysis*
