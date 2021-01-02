@@ -11,7 +11,7 @@ title: Research
 
 **What are the returns to apprenticeships? Evidence from Italy** <font size="-1">[<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf">WorkINPS paper n.21</a>]</font>
 
-### Drafts coming soon
+### Work in progress
 
 **Are subsidies to apprenticeships a bad deal? Evidence from a recent Italian reform** <font size="-1">with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a></font>
 
