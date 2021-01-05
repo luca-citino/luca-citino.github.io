@@ -9,5 +9,7 @@ I am currently working as an economist at the DG for Economics, Statistics and R
 
 In 2020 I received a PhD in Economics from the LSE, where I worked under the supervision of [Steve Pischke](https://personal.lse.ac.uk/pischke/) and [Steve Machin](https://personal.lse.ac.uk/machin/)
 
+For more information, please see my [CV](https://luca-citino.github.io/docs/citino_curriculum_vitae.pdf)
+
 
 
