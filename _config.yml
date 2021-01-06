@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Luca Citino
-  avatar: foto8.png
+  avatar: foto_small.jpg
   bio: "Economist at Bank of Italy"
   email: luca.citino@bancaditalia.it
   # Do not include the @ symbol in your Twitter username
