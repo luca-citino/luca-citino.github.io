@@ -3,9 +3,12 @@ layout: page
 title: Research
 ---
 
-#### Working papers
+#### Publications
 
 **The impact of Chinese import competition on Italian manufacturing** <font size="-1">with <a href="https://sites.google.com/site/andrealinarello/home">Andrea Linarello </a>[<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/26_WorkINPS_Linarello_Citino_dicembre_2019.pdf">WorkINPS paper n.26</a> ]  [<a href="https://luca-citino.github.io/docs/CL_chinaPaper.pdf">Most recent version</a>] <i>accepted for publication at Review of International Economics </i> </font>
+
+
+#### Working papers
 
 **Happy birthday? Manipulation and Selection in Unemployment Insurance**  <font size="-1">with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/draft_UI_mani.pdf">Most recent version</a>]</font>
 
