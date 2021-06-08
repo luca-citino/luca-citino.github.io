@@ -22,5 +22,5 @@ title: Research
 
 #### Work in progress
 
-**Are subsidies to apprenticeships a bad deal? Evidence from a recent Italian reform** <font size="-1">with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a>
+**Are subsidies to apprenticeships a bad deal? Evidence from a recent Italian reform** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a>
 
