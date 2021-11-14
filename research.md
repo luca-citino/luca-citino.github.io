@@ -5,7 +5,7 @@ title: Research
 
 #### Publications
 
-**The impact of Chinese import competition on Italian manufacturing** with <a href="https://sites.google.com/site/andrealinarello/home">Andrea Linarello </a>[<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/26_WorkINPS_Linarello_Citino_dicembre_2019.pdf">WorkINPS paper n.26</a> ]  [<a href="https://www.bancaditalia.it/pubblicazioni/temi-discussione/2021/2021-1345/en_tema_1345.pdf?language_id=1">Bank of Italy Working Paper n. 1345</a>] <i>accepted for publication at Review of International Economics </i> 
+**The impact of Chinese import competition on Italian manufacturing** with <a href="https://sites.google.com/site/andrealinarello/home">Andrea Linarello </a>[<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/26_WorkINPS_Linarello_Citino_dicembre_2019.pdf">WorkINPS paper n.26</a> ]  [<a href="https://www.bancaditalia.it/pubblicazioni/temi-discussione/2021/2021-1345/en_tema_1345.pdf?language_id=1">Bank of Italy Working Paper n. 1345</a>] <i>Review of International Economics </i> 
 
 
 #### Working papers
