@@ -10,7 +10,7 @@ title: Research
 
 #### Working papers
 
-**Manipulation, selection and the design of targeted social insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_UI.pdf">Most recent version</a>] <i>submitted</i>
+**Manipulation, selection and the design of targeted social insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_UI.pdf">Most recent version</a>] 
 
 **Are subsidies to apprenticeships a bad deal? Evidence from a recent Italian reform** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/41_Unico_%20Citino_Fenizia.pdf">WorkINPS paper n.41</a>]
 
