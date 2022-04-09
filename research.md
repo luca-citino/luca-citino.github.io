@@ -13,11 +13,12 @@ title: Research
 **Dance for the rain or pay for insurance? An empirical analysis of the Italian crop insurance market** with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a> [<a href="https://luca-citino.github.io/docs/CPP_dance_for_the_rain.pdf">paper</a> ]
 
 
-**Manipulation, selection and the design of targeted social insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_UI.pdf">Most recent version</a>] 
+**Manipulation, selection and the design of targeted social insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_UI.pdf">Most recent version</a>] - submitted
 
 **Are subsidies to apprenticeships a bad deal? Evidence from a recent Italian reform** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/41_Unico_%20Citino_Fenizia.pdf">WorkINPS paper n.41</a>]
 
 **What are the returns to apprenticeships? Evidence from Italy** [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf">WorkINPS paper n.21</a>]
+
 
 
 #### Policy papers
