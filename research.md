@@ -22,6 +22,9 @@ title: Research
 
 
 #### Policy papers
+
+**Creation, destruction and reallocation of jobs in Italian firms: an analysis based on administrative data** with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette [<a href="https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Attivita_ricerca/Studi_e_analisi/2022/nota_BdI_Inps_05_2022.pdf">Nota INPS Studi e analisi</a>] (only in Italian)
+
 **Tackling the emergency. The scaling up of productive capacity in the Italian Health System: progress overview** with Luciana Aimone Gigio, Domenico Depalo, Maura Francese and Andrea Petrella [<a href="https://www.bancaditalia.it/media/notizie/2020/2020_HealthPolicies_progress_v6_External.pdf?language_id=1">Bank of Italy Covid-19 Note</a>] - [<a href="https://www.bancaditalia.it/media/notizie/2020/2020_HealthPolicies_Progress_v6_ITA_External.pdf">Italian version</a>] 
 
 **Accounting for the UK productivity gap** with <a href="https://www.imperial.ac.uk/people/j.haskel">Jonathan Haskel</a> and <a href="https://mitmgmtfaculty.mit.edu/jvanreenen/">John Van Reenen</a> [LSE mimeo] 
