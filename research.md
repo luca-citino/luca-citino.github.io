@@ -23,7 +23,7 @@ title: Research
 
 #### Policy papers
 
-**Costs and benefits of the green transition envisaged in the Italian NRRP - an evaluation using the Social Cost of Carbon** with Matteo Alpino and Federica Zeni [draft coming out soon]
+**Costs and benefits of the green transition envisaged in the Italian NRRP - an evaluation using the Social Cost of Carbon** with Matteo Alpino and Federica Zeni <a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0720/QEF_720.pdf>[Bank of Italy Occasional Paper n.720]</a>
 
 **Creation, destruction and reallocation of jobs in Italian firms: an analysis based on administrative data** with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette [<a href="https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Attivita_ricerca/Studi_e_analisi/2022/nota_BdI_Inps_05_2022.pdf">Nota INPS Studi e analisi</a>] (only in Italian). Policy coverage: <a href="https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Rapporti_annuali/XXI_Rapporto_Annuale/XXI_Rapporto_Annuale.pdf">[XXI INPS Annual Report]</a>
 
