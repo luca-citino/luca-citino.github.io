@@ -23,6 +23,8 @@ title: Research
 
 #### Policy papers
 
+**The effects of climate change on the Italian economy. A research project of the Bank of Italy** with Matteo Alpino, Guido de Blasio and Federica Zeni [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0728/index.html">Bank of Italy Occasional Paper n. 728</a>] (only in Italian)
+
 **Costs and benefits of the green transition envisaged in the Italian NRRP - an evaluation using the Social Cost of Carbon** with Matteo Alpino and Federica Zeni [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0720/QEF_720.pdf">Bank of Italy Occasional Paper n.720</a>] Media coverage: [<a href="https://www.repubblica.it/economia/2022/10/16/news/superbonus_modifiche_nuovo_governo-370315835/">La Repubblica</a>] [<a href="https://www.open.online/2022/10/17/pnrr-studio-bankitalia-superbonus/">Open online</a>] Policy coverage: [<a href="https://www.imf.org/en/Publications/CR/Issues/2022/07/28/Italy-Selected-Issues-521489">IMF Country Report n.22/256 </a>]
 
 **Creation, destruction and reallocation of jobs in Italian firms: an analysis based on administrative data** with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette [<a href="https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Attivita_ricerca/Studi_e_analisi/2022/nota_BdI_Inps_05_2022.pdf">Nota INPS Studi e analisi</a>] (only in Italian). Policy coverage: <a href="https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Rapporti_annuali/XXI_Rapporto_Annuale/XXI_Rapporto_Annuale.pdf">[XXI INPS Annual Report]</a>
