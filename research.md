@@ -23,7 +23,7 @@ title: Research
 
 #### Policy papers
 
-**The effects of climate change on the Italian economy. A research project of the Bank of Italy** with Matteo Alpino, Guido de Blasio and Federica Zeni [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0728/index.html">Bank of Italy Occasional Paper n. 728</a>] (only in Italian)
+**The effects of climate change on the Italian economy. A research project of the Bank of Italy** with Matteo Alpino, Guido de Blasio and Federica Zeni [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0728/index.html">Bank of Italy Occasional Paper n. 728</a>] (only in Italian) Media Coverage: [Rai News] [Rete 4] [Il Fatto Quotidiano] [Ansa]
 
 **Costs and benefits of the green transition envisaged in the Italian NRRP - an evaluation using the Social Cost of Carbon** with Matteo Alpino and Federica Zeni [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0720/QEF_720.pdf">Bank of Italy Occasional Paper n.720</a>] Media coverage: [<a href="https://www.repubblica.it/economia/2022/10/16/news/superbonus_modifiche_nuovo_governo-370315835/">La Repubblica</a>] [<a href="https://www.ilsole24ore.com/art/bankitalia-il-superbonus-costa-caro-e-produce-scarsi-benefici-ambientali-AEUmAL9B">Il Sole 24 ore</a>] [<a href="https://www.open.online/2022/10/17/pnrr-studio-bankitalia-superbonus/">Open online</a>] Policy coverage: [<a href="https://www.imf.org/en/Publications/CR/Issues/2022/07/28/Italy-Selected-Issues-521489">IMF Country Report n.22/256 </a>]
 
