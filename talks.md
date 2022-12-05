@@ -4,6 +4,7 @@ layout: page
 
 **Dance for the rain or pay for insurance? An empirical analysis of the Italian crop insurance market**
 
+- Paris, December 2022 - *FirmOrgDyn*
 - Rome, October 2022 - *BoI workshop on the effects of climate change on the Italian economy* 
 - Online, September 2022 - *1st Annual Workshop of the ECB Research Cluster on Climate Change*
 - Cagliari, April 2022 - *Annual conference of the Italian Association of Environmental and Resource Economists*
