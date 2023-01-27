@@ -2,6 +2,10 @@
 layout: page
 ---
 
+**Creation, destruction and reallocation of jobs in Italian firms: an analysis based on administrative data**
+
+- Rome, January 2023 - *La struttura produttiva italiana a fronte dei recenti sconvolgimenti globali* 
+
 **Dance for the rain or pay for insurance? An empirical analysis of the Italian crop insurance market**
 
 - Paris, December 2022 - *CEPR 5th Joint Research Conference on Firm Financing, Organization and Dynamics*
