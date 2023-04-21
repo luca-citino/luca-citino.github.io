@@ -10,6 +10,8 @@ title: Research
 
 #### Working papers
 
+**The effects of the 2021 energy crisis on medium and large industrial firms: evidence from Italy** with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="">paper</a>]
+
 **Dance for the rain or pay for insurance? An empirical analysis of the Italian crop insurance market** with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a> [<a href="https://luca-citino.github.io/docs/CPP_dance_for_the_rain.pdf">paper</a>]
 
 
