@@ -8,6 +8,7 @@ layout: page
 
 **Dance for the rain or pay for insurance? An empirical analysis of the Italian crop insurance market**
 
+- Milan, April 2023 - *Climate change, local development and financial markets workshop - Bocconi U*
 - Trento, March 2023 - *Joint BoI/U Trento workshop on The economics of climate change*
 - Paris, December 2022 - *CEPR 5th Joint Research Conference on Firm Financing, Organization and Dynamics*
 - Rome, October 2022 - *BoI workshop on the effects of climate change on the Italian economy* 
