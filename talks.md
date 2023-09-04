@@ -2,6 +2,10 @@
 layout: page
 ---
 
+**The effects of the 2021-2022 energy crisis on medium and large industrial firms: evidence from Italy**
+
+- Barcelona, August 2023 - *European Economic Association (EEA) conference*
+
 **Creation, destruction and reallocation of jobs in Italian firms: an analysis based on administrative data**
 
 - Rome, January 2023 - *La struttura produttiva italiana a fronte dei recenti sconvolgimenti globali* 
