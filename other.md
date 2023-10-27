@@ -3,6 +3,11 @@ layout: page
 title: Other
 ---
 
+#### Policy briefs (in English)
+
+**Large shock, small adjustment - Evidence from the 2021 energy crisis** with <a href="https://sites.google.com/site/alpinomtt/home">Matteo Alpino </a> and Annalisa Frigo on <a href="https://www.suerf.org/suerf-policy-brief/70295/large-shock-small-adjustment-evidence-from-the-2021-energy-crisis">SUERF</a> 07/2023
+ 
+
 #### Articles (in Italian)
 
 **Cambia il clima, cambia l'economia** with <a href="https://sites.google.com/site/alpinomtt/home">Matteo Alpino </a>, Guido de Blasio and Federica Zeni on <a href="https://www.lavoce.info/archives/98587/cambia-il-clima-cambia-leconomia/">Lavoce.info</a> 07/11/2022
