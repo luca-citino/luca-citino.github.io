@@ -17,3 +17,6 @@ title: Other
 **Social cost of carbon: una metrica utile per valutare il PNNR** with <a href="https://sites.google.com/site/alpinomtt/home">Matteo Alpino </a> and Federica Zeni, on <a href="https://www.lavoce.info/archives/88199/social-cost-of-carbon-una-metrica-utile-per-valutare-il-pnrr/">Lavoce.info</a> 26/06/2021
 
 
+### Teaching
+
+"The impacts of climate change on the Italian economy" within the **Policy evaluation summer school** at University of Rome III, 2022 edition 
