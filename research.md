@@ -12,7 +12,7 @@ title: Research
 
 #### Working papers
 
-**Manipulation, selection and the design of targeted social insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_UI.pdf">Most recent version</a>] R&R at <i>The Economic Journal</i>
+**Manipulation and selection in unemployment insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_ui-1.pdf">Most recent version</a>] R&R at <i>The Economic Journal</i>
 
 **The effects of the 2021 energy crisis on medium and large industrial firms: evidence from Italy** with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2023-0776/">Bank of Italy Occasional working paper n.776 </a>]
 
