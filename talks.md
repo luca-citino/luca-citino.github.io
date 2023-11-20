@@ -21,7 +21,7 @@ layout: page
 - Online, September 2022 - *1st Annual Workshop of the ECB Research Cluster on Climate Change*
 - Cagliari, April 2022 - *Annual conference of the Italian Association of Environmental and Resource Economists*
 
-**Manipulation, selection and the design of targeted social insurance**
+**Manipulation and selection in unemployment insurance**
 
 - Rome, October 2022 - *BoI-EIEF joint workshop on applied microeconomics*
 - Milano, August 2022 - *European Economic Association (EEA) conference*
