@@ -12,12 +12,11 @@ title: Research
 
 #### Working papers
 
+**Manipulation, selection and the design of targeted social insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_UI.pdf">Most recent version</a>] R&R at <i>The Economic Journal</i>
+
 **The effects of the 2021 energy crisis on medium and large industrial firms: evidence from Italy** with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2023-0776/">Bank of Italy Occasional working paper n.776 </a>]
 
 **Dance for the rain or pay for insurance? An empirical analysis of the Italian crop insurance market** with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a> [<a href="https://luca-citino.github.io/docs/CPP_dance_for_the_rain.pdf">paper</a>]
-
-
-**Manipulation, selection and the design of targeted social insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_UI.pdf">Most recent version</a>] 
 
 **Are subsidies to apprenticeships a bad deal? Evidence from a recent Italian reform** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/41_Unico_%20Citino_Fenizia.pdf">WorkINPS paper n.41</a>]. Policy coverage: <a href="https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Rapporti_annuali/allegato_XVIII_R_A_versione_on_line.pdf)">[Attachment to the 2019 INPS Annual Report]</a>, <a href="https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Rapporti_annuali/XXI_Rapporto_Annuale/XXI_Rapporto_Annuale.pdf">[XXI INPS Annual Report]</a> 
 
