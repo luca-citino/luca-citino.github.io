@@ -18,9 +18,16 @@ title: Research
 
 **Dance for the rain or pay for insurance? An empirical analysis of the Italian crop insurance market** with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a> [<a href="https://luca-citino.github.io/docs/CPP_dance_for_the_rain.pdf">paper</a>]
 
-**Are subsidies to apprenticeships a bad deal? Evidence from a recent Italian reform** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/41_Unico_%20Citino_Fenizia.pdf">WorkINPS paper n.41</a>]. Policy coverage: <a href="https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Rapporti_annuali/allegato_XVIII_R_A_versione_on_line.pdf)">[Attachment to the 2019 INPS Annual Report]</a>, <a href="https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Rapporti_annuali/XXI_Rapporto_Annuale/XXI_Rapporto_Annuale.pdf">[XXI INPS Annual Report]</a> 
-
 **What are the returns to apprenticeships? Evidence from Italy** [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf">WorkINPS paper n.21</a>]
+
+
+#### Work in progress
+
+**The effects of the 2021-2022 energy crisis on medium and large industrial firms: evidence from Italy** with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a>
+
+**The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and Nicholas Li
+
+
 
 
 
@@ -36,6 +43,8 @@ title: Research
  
 #### Chapter in books
 **Accessing development assistance data and statistics** with <a href="http://eduardomissoni.info/?lang=en">Eduardo Missoni</a> in <i>Management of International Institutions and NGOs (2013) Routledge. pp 227-236</i>
+
+
 
 
 
