@@ -18,7 +18,7 @@ title: Research
 
 **Dance for the rain or pay for insurance? An empirical analysis of the Italian crop insurance market** with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a> [<a href="https://luca-citino.github.io/docs/CPP_dance_for_the_rain.pdf">paper</a>]
 
-**The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a> [<a href="https://luca-citino.github.io/docs/FLC_Jan2024">paper</a>] - _submitted_
+**The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a> [<a href="https://luca-citino.github.io/docs/FLC_Jan2024.pdf">paper</a>] - _submitted_
 
 **Job reallocation from the 80s to the COVID-19 crisis and beyond. Evidence from administrative data** with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette - _submitted_
 
