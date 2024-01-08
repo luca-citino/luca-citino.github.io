@@ -18,6 +18,8 @@ title: Research
 
 **Dance for the rain or pay for insurance? An empirical analysis of the Italian crop insurance market** with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a> [<a href="https://luca-citino.github.io/docs/CPP_dance_for_the_rain.pdf">paper</a>]
 
+**The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a> [<a href="https://luca-citino.github.io/docs/FLC_Jan2024">paper</a>]
+
 **What are the returns to apprenticeships? Evidence from Italy** [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf">WorkINPS paper n.21</a>]
 
 
@@ -25,7 +27,6 @@ title: Research
 
 **The effects of the 2021-2022 energy crisis on medium and large industrial firms: evidence from Italy** with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a>
 
-**The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and Nicholas Li
 
 
 
