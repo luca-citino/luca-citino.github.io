@@ -27,11 +27,6 @@ title: Research
 **What are the returns to apprenticeships? Evidence from Italy** [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf">WorkINPS paper n.21</a>]
 
 
-#### Work in progress
-
-**The effects of the 2021-2022 energy crisis on medium and large industrial firms: evidence from Italy** with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a>
-
-
 
 
 
