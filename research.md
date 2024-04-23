@@ -18,13 +18,13 @@ title: Research
 
 **The effects of the 2021 energy crisis on medium and large industrial firms: evidence from Italy** with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2023-0776/">Bank of Italy Occasional working paper n.776 </a>]
 
-**Dance for the rain or pay for insurance? An empirical analysis of the Italian crop insurance market** with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a> [<a href="https://luca-citino.github.io/docs/CPP_dance_for_the_rain.pdf">paper</a>]
+**Dance for the rain or pay for insurance? An empirical analysis of the Italian crop insurance market** with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a> - _new version coming out soon_
 
 **The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a> [<a href="https://luca-citino.github.io/docs/FLC_Jan2024.pdf">paper</a>] - _submitted_
 
 **Job reallocation from the 80s to the COVID-19 crisis and beyond. Evidence from administrative data** with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette - _submitted_
 
-**What are the returns to apprenticeships? Evidence from Italy** [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf">WorkINPS paper n.21</a>]
+
 
 
 
@@ -43,6 +43,9 @@ title: Research
  
 #### Chapter in books
 **Accessing development assistance data and statistics** with <a href="http://eduardomissoni.info/?lang=en">Eduardo Missoni</a> in <i>Management of International Institutions and NGOs (2013) Routledge. pp 227-236</i>
+
+#### Dormant projects 
+**What are the returns to apprenticeships? Evidence from Italy** [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf">WorkINPS paper n.21</a>]
 
 
 
