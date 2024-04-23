@@ -12,7 +12,7 @@ title: Research
 
 #### Working papers
 
-**Firms in the energy crisis: evidence from 2021-2022**  with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://luca-citino.github.io/docs/INVIND.pdf">paper </a>]
+**Firms in the energy crisis: evidence from 2021-2022**  with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://luca-citino.github.io/docs/INVIND.pdf">paper </a>] - _submitted_
 
 **Manipulation and selection in unemployment insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_ui-1.pdf">Most recent version</a>] R&R at <i>The Economic Journal</i>
 
