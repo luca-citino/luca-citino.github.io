@@ -4,6 +4,8 @@ layout: page
 
 **The effects of the 2021-2022 energy crisis on medium and large industrial firms: evidence from Italy**
 
+- Pescara, February 2024 - *Annual conference of the Italian Association of Environmental and Resource Economists*
+- Zurich, January 2024 - *EMEE Workshop*
 - London, November 2023 - *ESCB Cluster 2 workshop*
 - Rome, November 2023 - *Bank of Italy lunch seminar*
 - Barcelona, August 2023 - *European Economic Association (EEA) conference*
