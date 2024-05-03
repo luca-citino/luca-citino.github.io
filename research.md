@@ -33,6 +33,8 @@ title: Research
 
 #### Policy papers
 
+**A model of the Italian electricity market for policy evaluation** with Matteo Alpino, Emanuela Ciapanna and Gabriele Rovigatti 
+
 **The effects of climate change on the Italian economy. A research project of the Bank of Italy** with Matteo Alpino, Guido de Blasio and Federica Zeni [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0728/QEF_728_22_EN.pdf">EN: Bank of Italy Occasional Paper n. 728</a>] [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0728/index.html">IT: Bank of Italy Occasional Paper n. 728</a>] Media Coverage: [Rai News] [Rete 4] [Il Fatto Quotidiano] [Ansa]
 
 **Creation, destruction and reallocation of jobs in Italian firms: an analysis based on administrative data** with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2023-0751/QEF_751_23.pdf">Bank of Italy Occasional Paper n. 751</a>] [<a href="https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Attivita_ricerca/Studi_e_analisi/2022/nota_BdI_Inps_05_2022.pdf">Italian version: Nota INPS Studi e analisi</a>]. Media Coverage: [<a href="https://www.lavoce.info/archives/97443/cosi-la-pandemia-ha-distrutto-e-creato-lavoro/">Lavoce info</a>] [<a href="https://eticaeconomia.it/leconomia-italiana-e-le-rigidita-che-non-ci-sono-e-non-cerano/">Etica Economia</a>] Policy coverage: <a href="https://www.inps.it/docallegatiNP/Mig/Dati_analisi_bilanci/Rapporti_annuali/XXI_Rapporto_Annuale/XXI_Rapporto_Annuale.pdf">[XXI INPS Annual Report]</a>
