@@ -5,8 +5,11 @@ title: Other
 
 #### Policy briefs (in English)
 
-**Large shock, small adjustment - Evidence from the 2021 energy crisis** with <a href="https://sites.google.com/site/alpinomtt/home">Matteo Alpino </a> and Annalisa Frigo on <a href="https://www.suerf.org/suerf-policy-brief/70295/large-shock-small-adjustment-evidence-from-the-2021-energy-crisis">SUERF</a> 07/2023
+ **The effect of climate change on the Italian economy, part 1: The damages** with Matteo Alpino, Guido De Blasio and Federica Zeni on <a href="https://cepr.org/voxeu/columns/effect-climate-change-italian-economy-part-1-damages">VoxEU</a>
+
+ **The effect of climate change on the Italian economy, part 2: Policy** with Matteo Alpino, Guido De Blasio and Federica Zeni on <a href="https://cepr.org/voxeu/columns/effect-climate-change-italian-economy-part-2-policy">VoxEU</a>
  
+**Large shock, small adjustment - Evidence from the 2021 energy crisis** with <a href="https://sites.google.com/site/alpinomtt/home">Matteo Alpino </a> and Annalisa Frigo on <a href="https://www.suerf.org/suerf-policy-brief/70295/large-shock-small-adjustment-evidence-from-the-2021-energy-crisis">SUERF</a> 07/2023
 
 #### Articles (in Italian)
 
@@ -19,4 +22,6 @@ title: Other
 
 ### Teaching
 
-"The impacts of climate change on the Italian economy" within the **Policy evaluation summer school** at University of Rome III, 2022 edition 
+"Econometrics mini-course on difference-in-differences" at Bank of Italy 
+
+"The impacts of climate change on the Italian economy" within the **Policy evaluation summer school** at University of Rome III, 2022-2023 editions 
