@@ -14,11 +14,13 @@ title: Research
 
 **Manipulation and selection in unemployment insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_ui-1.pdf">Most recent version</a>] R&R at **<i>The Economic Journal</i>**
 
-**Adverse selection and choice frictions in crop insurance against climate risk** with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a> [<a href="https://luca-citino.github.io/docs/cpp_aug20204.pdf">paper </a>] - _submitted_
+**A model of the Italian electricity market for policy evaluation** with Matteo Alpino, Emanuela Ciapanna and Gabriele Rovigatti, R&R at **<i>The Electricity Journal</i>**
+
+**Adverse selection and choice frictions in crop insurance against climate risk** with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a> [<a href="https://luca-citino.github.io/docs/cpp_aug20204.pdf">paper </a>] 
 
 **Firms in the energy crisis: evidence from 2021-2022**  with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://luca-citino.github.io/docs/INVIND.pdf">paper </a>] - _submitted_
 
-**Job reallocation from the 80s to the COVID-19 crisis and beyond. Evidence from administrative data** with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette - _submitted_
+**Job reallocation from the 80s to the COVID-19 crisis and beyond. Evidence from administrative data** with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette 
 
 **The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a> [<a href="https://luca-citino.github.io/docs/FLC_Jan2024.pdf">paper</a>] 
 
@@ -30,7 +32,6 @@ title: Research
 
 #### Policy papers
 
-**A model of the Italian electricity market for policy evaluation** with Matteo Alpino, Emanuela Ciapanna and Gabriele Rovigatti 
 
 **The effects of climate change on the Italian economy. A research project of the Bank of Italy** with Matteo Alpino, Guido de Blasio and Federica Zeni [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0728/QEF_728_22_EN.pdf">EN: Bank of Italy Occasional Paper n. 728</a>] [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0728/index.html">IT: Bank of Italy Occasional Paper n. 728</a>] Media Coverage: [Rai News] [Rete 4] [Il Fatto Quotidiano] [Ansa]
 
