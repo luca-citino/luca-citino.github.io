@@ -20,7 +20,7 @@ title: Research
 
 **Adverse selection and choice frictions in crop insurance against climate risk** with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a> [<a href="https://luca-citino.github.io/docs/cpp_aug20204.pdf">paper </a>] 
 
-**Firms in the energy crisis: evidence from 2021-2022**  with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://luca-citino.github.io/docs/INVIND.pdf">paper </a>] - _submitted_
+**Firms in the energy crisis: evidence from 2021-2022**  with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://luca-citino.github.io/docs/acf_energy_sep24.pdf">paper </a>] - _submitted_
 
 **Job reallocation from the 80s to the COVID-19 crisis and beyond. Evidence from administrative data** with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette 
 
