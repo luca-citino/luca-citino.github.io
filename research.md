@@ -34,6 +34,8 @@ title: Research
 
 #### Policy papers
 
+**Innovazione e politiche di sostegno pubblico: un’analisi comparata** (in Italian) with Fabio Bertolotti, Andrea Linarello, Francesca Lotti, Elena Padovani, Elena Pisano, Marzia Romanelli, Alessandra Sanelli, Filippo Scoccianti, Enrico Sette ed Ernesto Zangari [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2024-0898/QEF_898_24.pdf">EN: Bank of Italy Occasional Paper n. 898</a>]  
+
 
 **The effects of climate change on the Italian economy. A research project of the Bank of Italy** with Matteo Alpino, Guido de Blasio and Federica Zeni [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0728/QEF_728_22_EN.pdf">EN: Bank of Italy Occasional Paper n. 728</a>] [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0728/index.html">IT: Bank of Italy Occasional Paper n. 728</a>] Media Coverage: [Rai News] [Rete 4] [Il Fatto Quotidiano] [Ansa]
 
