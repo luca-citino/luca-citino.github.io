@@ -12,6 +12,9 @@ title: Research
 
 #### Working papers
 
+
+**The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a> [<a href="https://luca-citino.github.io/docs/FLC_2025Jan7.pdf">paper</a>] - _submitted_
+
 **Wage contracts and financial frictions** with <a href="https://www.cedomirmalgieri.com">Cedomir Malgieri</a> [<a href="https://cedomirm.github.io/website/MC_JMP.pdf">Most recent version</a>]
 
 **Manipulation and selection in unemployment insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_ui-5.pdf">Most recent version</a>] R&R at **<i>The Economic Journal</i>**
@@ -23,9 +26,6 @@ title: Research
 **Firms in the energy crisis: evidence from 2021-2022**  with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://luca-citino.github.io/docs/acf_energy_sep24.pdf">paper </a>] - _submitted_
 
 **Job reallocation from the 80s to the COVID-19 crisis and beyond. Evidence from administrative data** with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette 
-
-**The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a> [<a href="https://luca-citino.github.io/docs/FLC_Jan2024.pdf">paper</a>] 
-
 
 
 
