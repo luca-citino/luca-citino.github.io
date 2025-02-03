@@ -34,6 +34,8 @@ title: Research
 
 #### Policy papers
 
+**Il recente sviluppo delle energie rinnovabili in Italia** (in Italian) with Matteo Alpino, Luca Brugnara, Maria Giulia Cassinis, Francesco David, Annalisa Frigo, Giulio Papini, Pasquale Recchia e Luca Sessa  [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0908/QEF_908_25.pdf">EN: Bank of Italy Occasional Paper n. 908</a>]  
+
 **Innovazione e politiche di sostegno pubblico: un’analisi comparata** (in Italian) with Fabio Bertolotti, Andrea Linarello, Francesca Lotti, Elena Padovani, Elena Pisano, Marzia Romanelli, Alessandra Sanelli, Filippo Scoccianti, Enrico Sette ed Ernesto Zangari [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2024-0898/QEF_898_24.pdf">EN: Bank of Italy Occasional Paper n. 898</a>]  
 
 
