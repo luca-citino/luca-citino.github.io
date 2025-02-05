@@ -13,7 +13,7 @@ title: Research
 
 #### Working papers
 
-**Manipulation and selection in unemployment insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_ui-5.pdf">Most recent version</a>] conditionally accepted at <span style="color: blue;"><i>The Economic Journal</i> </span>
+**Manipulation and selection in unemployment insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a>  [<a href="https://luca-citino.github.io/docs/targeted_ui-5.pdf">Most recent version</a>] conditionally accepted at <span style="color: blue;"><i>The Economic Journal</i> </span>
 
 **A model of the Italian electricity market for policy evaluation** with Matteo Alpino, Emanuela Ciapanna and Gabriele Rovigatti, R&R at <span style="color: blue;"><i>The Electricity Journal</i> </span>
 
