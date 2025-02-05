@@ -12,12 +12,12 @@ title: Research
 
 #### Working papers
 
+**Manipulation and selection in unemployment insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_ui-5.pdf">Most recent version</a>] conditionally accepted at **<i>The Economic Journal</i>**
+
 
 **The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a> [<a href="https://luca-citino.github.io/docs/FLC_2025Jan7.pdf">paper</a>] - _submitted_
 
 **Wage contracts and financial frictions** with <a href="https://www.cedomirmalgieri.com">Cedomir Malgieri</a> [<a href="https://cedomirm.github.io/website/MC_JMP.pdf">Most recent version</a>]
-
-**Manipulation and selection in unemployment insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a> [<a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/22_gennaio_2019_Happy%20Birthday_citino_russ_scrutinio.pdf">Old WorkINPS paper n.22</a> ]  [<a href="https://luca-citino.github.io/docs/targeted_ui-5.pdf">Most recent version</a>] R&R at **<i>The Economic Journal</i>**
 
 **A model of the Italian electricity market for policy evaluation** with Matteo Alpino, Emanuela Ciapanna and Gabriele Rovigatti, R&R at **<i>The Electricity Journal</i>**
 
