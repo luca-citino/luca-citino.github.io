@@ -5,8 +5,6 @@ title: Research
 
 #### Publications
 
-<span style="color: red;">This text is red</span>
-
 **Costs and benefits of the green transition envisaged in the Italian NRRP - an evaluation using the Social Cost of Carbon** with Matteo Alpino and Federica Zeni [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0720/QEF_720.pdf">Bank of Italy Occasional Paper n.720</a>] Media coverage: [<a href="https://www.repubblica.it/economia/2022/10/16/news/superbonus_modifiche_nuovo_governo-370315835/">La Repubblica</a>] [<a href="https://www.ilfoglio.it/economia/2022/11/10/news/il-superbonus-riduce-di-pochissimo-le-emissioni-di-co2-e-aumenta-di-molto-quelle-di-debito-4642055/">Il Foglio</a>] [<a href="https://www.ilsole24ore.com/art/bankitalia-il-superbonus-costa-caro-e-produce-scarsi-benefici-ambientali-AEUmAL9B">Il Sole 24 ore</a>] [<a href="https://www.open.online/2022/10/17/pnrr-studio-bankitalia-superbonus/">Open online</a>] [<a href="https://www.huffingtonpost.it/dossier/terra/2022/10/21/news/banca_ditalia_bocciato_il_superbonus_promosse_le_rinnovabili-10458683/">Huffington Post</a>] [<a href="https://www.qualenergia.it/articoli/superbonus-non-inefficiente-come-sembrerebbe-bocciatura-bankitalia/">Qualenergia</a>] Policy coverage: [<a href="https://www.imf.org/en/Publications/CR/Issues/2022/07/28/Italy-Selected-Issues-521489">IMF Country Report n.22/256</a>] [<a href="https://www.bancaditalia.it/pubblicazioni/interventi-vari/int-var-2023/Ricotti-2023.02.21.pdf">Bank of Italy Parliamentary hearing on fiscal incentives and tax credits</a>] <span style="color: blue;"><i>Energy Policy</i> </span> Volume 182, November 2023
 
 
