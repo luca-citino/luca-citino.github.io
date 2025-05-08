@@ -17,7 +17,7 @@ title: Research
 
 **A model of the Italian electricity market for policy evaluation** with Matteo Alpino, Emanuela Ciapanna and Gabriele Rovigatti, R&R at <span style="color: blue;"><i>The Electricity Journal</i> </span>
 
-**Firms in the energy crisis: evidence from 2021-2022**  with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://luca-citino.github.io/docs/acf_energy_sep24.pdf">paper </a>] - _submitted_
+**Firms in the energy crisis: evidence from 2021-2022**  with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://luca-citino.github.io/docs/acf_april25_c.pdf">paper </a>] - _submitted_
 
 
 **The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a> [<a href="https://luca-citino.github.io/docs/FLC_2025Jan7.pdf">paper</a>] - _submitted_
