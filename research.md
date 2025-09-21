@@ -17,10 +17,10 @@ title: Research
 
 **Manipulation and selection in unemployment insurance**  with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a>  [<a href="https://luca-citino.github.io/docs/targeted_ui-5.pdf">Most recent version</a>] conditionally accepted at <span style="color: blue;"><i>The Economic Journal</i> </span>
 
-**The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a> [<a href="https://luca-citino.github.io/docs/FLC_2025Jan7.pdf">paper</a>] R&R at <span style="color: blue;"><i>The Economic Journal</i> </span>
+**The (in)effectiveness of targeted payroll tax reductions** with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a> [<a href="https://luca-citino.github.io/docs/FLC_2025Jan7.pdf">paper</a>] conditionally accepted at <span style="color: blue;"><i>The Economic Journal</i> </span>
 
 
-**Firms in the energy crisis: evidence from 2021-2022**  with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://luca-citino.github.io/docs/acf_april25_c.pdf">paper </a>] - _submitted_
+**Firms in the energy crisis: evidence from 2021-2022**  with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a> [<a href="https://luca-citino.github.io/docs/acf_april25_c.pdf">paper </a>] - reject and resubmit at the <span style="color: blue;"><i>Journal of Public Economics</i> </span> 
 
 
 **Wage contracts and financial frictions** with <a href="https://www.cedomirmalgieri.com">Cedomir Malgieri</a> [<a href="https://cedomirm.github.io/website/MC_JMP.pdf">Most recent version</a>]
