@@ -36,9 +36,12 @@ title: Research
 
 #### Policy papers
 
-**Il recente sviluppo delle energie rinnovabili in Italia** (in Italian) with Matteo Alpino, Luca Brugnara, Maria Giulia Cassinis, Francesco David, Annalisa Frigo, Giulio Papini, Pasquale Recchia e Luca Sessa  [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0908/QEF_908_25.pdf">EN: Bank of Italy Occasional Paper n. 908</a>]  
+**Ricerca, innovazione e trasferimento tecnologico in Italia** (in Italian) with Monica Andini, Fabio Bertolotti, Francesco D’Amuri,
+Andrea Linarello and Giulia Mattei [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0954/QEF_954.pdf">Bank of Italy Occasional Paper n. 954</a>]  
 
-**Innovazione e politiche di sostegno pubblico: un’analisi comparata** (in Italian) with Fabio Bertolotti, Andrea Linarello, Francesca Lotti, Elena Padovani, Elena Pisano, Marzia Romanelli, Alessandra Sanelli, Filippo Scoccianti, Enrico Sette ed Ernesto Zangari [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2024-0898/QEF_898_24.pdf">EN: Bank of Italy Occasional Paper n. 898</a>]  
+**Il recente sviluppo delle energie rinnovabili in Italia** (in Italian) with Matteo Alpino, Luca Brugnara, Maria Giulia Cassinis, Francesco David, Annalisa Frigo, Giulio Papini, Pasquale Recchia e Luca Sessa  [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2025-0908/QEF_908_25.pdf">Bank of Italy Occasional Paper n. 908</a>]  
+
+**Innovazione e politiche di sostegno pubblico: un’analisi comparata** (in Italian) with Fabio Bertolotti, Andrea Linarello, Francesca Lotti, Elena Padovani, Elena Pisano, Marzia Romanelli, Alessandra Sanelli, Filippo Scoccianti, Enrico Sette ed Ernesto Zangari [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2024-0898/QEF_898_24.pdf">Bank of Italy Occasional Paper n. 898</a>]  
 
 
 **The effects of climate change on the Italian economy. A research project of the Bank of Italy** with Matteo Alpino, Guido de Blasio and Federica Zeni [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0728/QEF_728_22_EN.pdf">EN: Bank of Italy Occasional Paper n. 728</a>] [<a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0728/index.html">IT: Bank of Italy Occasional Paper n. 728</a>] Media Coverage: [Rai News] [Rete 4] [Il Fatto Quotidiano] [Ansa]
