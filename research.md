@@ -11,7 +11,7 @@ title: Research
 
 **Manipulation and selection in unemployment insurance**  
 with Kilian Russ and [Vincenzo Scrutinio](https://sites.google.com/view/vincenzoscrutinio/home)  
-[Most recent version](https://luca-citino.github.io/docs/targeted_ui-5.pdf) — <span class="journal">The Economic Journal</span> (forthcoming)
+[Most recent version](https://luca-citino.github.io/docs/targeted_ui-5.pdf) — <span class="journal">The Economic Journal</span> · [doi](https://doi.org/10.1093/ej/ueaf105)
 
 **Navigating the Electric Storm: Assessing Policy Responses to Europe’s Energy Shock**  
 with Matteo Alpino, Emanuela Ciapanna and Gabriele Rovigatti  
