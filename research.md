@@ -47,6 +47,14 @@ with [Alessandro Palma](https://sites.google.com/view/alessandropalma/home) and 
 
 ---
 
+#### Selected work in progress
+
+**No Country for Young Managers: How Age and Tenure Shape the Distribution of Italian Firms**
+with Marta Morazzoni, Stefano Pietrosanti and Guido Spanó
+
+
+---
+
 #### Chapter in books
 
 **Accessing development assistance data and statistics**  
