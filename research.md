@@ -14,7 +14,7 @@ with Kilian Russ and [Vincenzo Scrutinio](https://sites.google.com/view/vincenzo
 [Most recent version](https://luca-citino.github.io/docs/targeted_ui-5.pdf) — <span class="journal">The Economic Journal</span> · [doi](https://doi.org/10.1093/ej/ueaf105)
 
 **Navigating the Electric Storm: Assessing Policy Responses to Europe’s Energy Shock**  
-with Matteo Alpino, Emanuela Ciapanna and Gabriele Rovigatti  
+with [Matteo Alpino](https://sites.google.com/site/alpinomtt/home), [Emanuela Ciapanna](https://scholar.google.com/citations?user=HciEujcAAAAJ&hl=en) and [Gabriele Rovigatti](https://sites.google.com/view/gabrielerovigatti/home)  
 [CEPR discussion paper](https://cepr.org/system/files/publication-files/DP19981.pdf) — <span class="journal">The Electricity Journal</span>, Volume 38, December 2025 · [doi](https://doi.org/10.1016/j.tej.2025.107474)
 
 **Costs and benefits of the green transition envisaged in the Italian NRRP – an evaluation using the Social Cost of Carbon**  
