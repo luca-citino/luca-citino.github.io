@@ -3,9 +3,7 @@ layout: page
 title: Research
 ---
 
-<style>
-.journal { color:#2f855a; font-weight:700; font-style:italic; }
-</style>
+
 
 #### Publications
 
