@@ -52,6 +52,13 @@ with [Alessandro Palma](https://sites.google.com/view/alessandropalma/home) and 
 **No Country for Young Managers: How Age and Tenure Shape the Distribution of Italian Firms**
 with [Marta Morazzoni](https://martamorazzoni.weebly.com/), [Stefano Pietrosanti](https://sites.google.com/sas.upenn.edu/stefanopietrosanti/home) and [Guido Spanó](https://www.linkedin.com/in/thespannung)
 
+**Hydrogen Valleys**
+with [Francesco Del Prato](https://francescodelprato.github.io/), [Lorenzo Incoronato](https://www.lorenzoincoronato.com/) and [Salvatore Lattanzio](https://sites.google.com/view/salvatore-lattanzio/home)
+part of the INPS _VisitPNRR_ program
+
+**Energy shocks and corporate resilience: evidence from energy-intensive firms**
+with [Matteo Alpino](https://sites.google.com/site/alpinomtt/home)
+
 
 ---
 
