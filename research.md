@@ -5,6 +5,10 @@ title: Research
 
 
 
+<style>
+.journal { color:#2f855a; font-weight:700; font-style:italic; }
+</style>
+
 #### Publications
 
 **Manipulation and selection in unemployment insurance**  
