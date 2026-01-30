@@ -11,6 +11,10 @@ title: Research
 
 #### Publications
 
+**The (in)effectiveness of targeted payroll tax reductions**  
+with [Alessandra Fenizia](https://sites.google.com/site/alessandrafenizia/) and [Nicholas Li](https://sites.google.com/view/nicholasli)  
+[paper](https://luca-citino.github.io/docs/FLC_2025Jan7.pdf) — forthcoming at <span class="journal">The Economic Journal</span>
+
 **Manipulation and selection in unemployment insurance**  
 with Kilian Russ and [Vincenzo Scrutinio](https://sites.google.com/view/vincenzoscrutinio/home)  
 [Most recent version](https://luca-citino.github.io/docs/targeted_ui-5.pdf) — <span class="journal">The Economic Journal</span> · [doi](https://doi.org/10.1093/ej/ueaf105)
@@ -31,10 +35,6 @@ with [Andrea Linarello](https://sites.google.com/site/andrealinarello/home)
 
 #### Working papers
 
-**The (in)effectiveness of targeted payroll tax reductions**  
-with [Alessandra Fenizia](https://sites.google.com/site/alessandrafenizia/) and [Nicholas Li](https://sites.google.com/view/nicholasli)  
-[paper](https://luca-citino.github.io/docs/FLC_2025Jan7.pdf) — conditionally accepted at <span class="journal">The Economic Journal</span>
-
 **Firms in the energy crisis: evidence from 2021–2022**  
 with [Matteo Alpino](https://sites.google.com/site/alpinomtt) and [Annalisa Frigo](https://annalisafrigo.weebly.com/)  
 [paper](https://luca-citino.github.io/docs/acf_april25_c.pdf) — reject and resubmit at the <span class="journal">Journal of Public Economics</span>
@@ -42,10 +42,6 @@ with [Matteo Alpino](https://sites.google.com/site/alpinomtt) and [Annalisa Frig
 **Wage contracts and financial frictions**  
 with [Cedomir Malgieri](https://www.cedomirmalgieri.com)  
 [Most recent version](https://cedomirm.github.io/website/MC_JMP.pdf)
-
-**Adverse selection and choice frictions in crop insurance against climate risk**  
-with [Alessandro Palma](https://sites.google.com/view/alessandropalma/home) and [Matteo Paradisi](https://www.matteoparadisi.com/)  
-[paper](https://luca-citino.github.io/docs/cpp_aug20204.pdf)
 
 ---
 
@@ -73,6 +69,10 @@ in <span class="journal">Management of International Institutions and NGOs</span
 ---
 
 #### Dormant projects
+
+**Adverse selection and choice frictions in crop insurance against climate risk**  
+with [Alessandro Palma](https://sites.google.com/view/alessandropalma/home) and [Matteo Paradisi](https://www.matteoparadisi.com/)  
+[paper](https://luca-citino.github.io/docs/cpp_aug20204.pdf)
 
 **What are the returns to apprenticeships? Evidence from Italy**  
 [WorkINPS paper n. 21](https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkINPS_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf)
