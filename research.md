@@ -13,7 +13,7 @@ title: Research
 
 **The (in)effectiveness of targeted payroll tax reductions**  
 with [Alessandra Fenizia](https://sites.google.com/site/alessandrafenizia/) and [Nicholas Li](https://sites.google.com/view/nicholasli)  
-[paper](https://luca-citino.github.io/docs/FLC_2025Jan7.pdf) — forthcoming at <span class="journal">The Economic Journal</span>
+[paper](https://luca-citino.github.io/docs/FLC_2025Jan7.pdf) — <span class="journal">The Economic Journal</span> · [doi](https://doi.org/10.1093/ej/ueag017)
 
 **Manipulation and selection in unemployment insurance**  
 with Kilian Russ and [Vincenzo Scrutinio](https://sites.google.com/view/vincenzoscrutinio/home)  
