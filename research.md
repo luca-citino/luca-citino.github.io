@@ -3,79 +3,137 @@ layout: page
 title: Research
 ---
 
+<p class="section-label">Publications</p>
 
+<div class="paper-item">
+  <div class="paper-title">The (in)effectiveness of targeted payroll tax reductions</div>
+  <div class="paper-authors">with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a></div>
+  <div class="paper-links">
+    <span class="journal-badge">The Economic Journal</span>
+    <a href="https://luca-citino.github.io/docs/FLC_2025Jan7.pdf">paper</a>
+    <span class="sep">·</span>
+    <a href="https://doi.org/10.1093/ej/ueag017">doi</a>
+  </div>
+</div>
 
-<style>
-.journal { color:#2f855a; font-weight:700; font-style:italic; }
-</style>
+<div class="paper-item">
+  <div class="paper-title">Manipulation and selection in unemployment insurance</div>
+  <div class="paper-authors">with Kilian Russ and <a href="https://sites.google.com/view/vincenzoscrutinio/home">Vincenzo Scrutinio</a></div>
+  <div class="paper-links">
+    <span class="journal-badge">The Economic Journal</span>
+    <a href="https://luca-citino.github.io/docs/targeted_ui-5.pdf">paper</a>
+    <span class="sep">·</span>
+    <a href="https://doi.org/10.1093/ej/ueaf105">doi</a>
+  </div>
+</div>
 
-#### Publications
+<div class="paper-item">
+  <div class="paper-title">Navigating the electric storm: assessing policy responses to Europe's energy shock</div>
+  <div class="paper-authors">with <a href="https://sites.google.com/site/alpinomtt/home">Matteo Alpino</a>, <a href="https://scholar.google.com/citations?user=HciEujcAAAAJ&hl=en">Emanuela Ciapanna</a> and <a href="https://sites.google.com/view/gabrielerovigatti/home">Gabriele Rovigatti</a></div>
+  <div class="paper-links">
+    <span class="journal-badge">The Electricity Journal</span>
+    <a href="https://cepr.org/system/files/publication-files/DP19981.pdf">CEPR discussion paper</a>
+    <span class="sep">·</span>
+    <a href="https://doi.org/10.1016/j.tej.2025.107474">doi</a>
+  </div>
+</div>
 
-**The (in)effectiveness of targeted payroll tax reductions**  
-with [Alessandra Fenizia](https://sites.google.com/site/alessandrafenizia/) and [Nicholas Li](https://sites.google.com/view/nicholasli)  
-[paper](https://luca-citino.github.io/docs/FLC_2025Jan7.pdf) — <span class="journal">The Economic Journal</span> · [doi](https://doi.org/10.1093/ej/ueag017)
+<div class="paper-item">
+  <div class="paper-title">Costs and benefits of the green transition envisaged in the Italian NRRP</div>
+  <div class="paper-authors">with Matteo Alpino and Federica Zeni</div>
+  <div class="paper-links">
+    <span class="journal-badge">Energy Policy</span>
+    <a href="https://www.bancaditalia.it/pubblicazioni/qef/2022-0720/QEF_720.pdf">Bank of Italy OP 720</a>
+    <span class="sep">·</span>
+    <a href="https://doi.org/10.1016/j.enpol.2023.113744">doi</a>
+  </div>
+</div>
 
-**Manipulation and selection in unemployment insurance**  
-with Kilian Russ and [Vincenzo Scrutinio](https://sites.google.com/view/vincenzoscrutinio/home)  
-[Most recent version](https://luca-citino.github.io/docs/targeted_ui-5.pdf) — <span class="journal">The Economic Journal</span> · [doi](https://doi.org/10.1093/ej/ueaf105)
-
-**Navigating the Electric Storm: Assessing Policy Responses to Europe’s Energy Shock**  
-with [Matteo Alpino](https://sites.google.com/site/alpinomtt/home), [Emanuela Ciapanna](https://scholar.google.com/citations?user=HciEujcAAAAJ&hl=en) and [Gabriele Rovigatti](https://sites.google.com/view/gabrielerovigatti/home)  
-[CEPR discussion paper](https://cepr.org/system/files/publication-files/DP19981.pdf) — <span class="journal">The Electricity Journal</span>, Volume 38, December 2025 · [doi](https://doi.org/10.1016/j.tej.2025.107474)
-
-**Costs and benefits of the green transition envisaged in the Italian NRRP – an evaluation using the Social Cost of Carbon**  
-with Matteo Alpino and Federica Zeni  
-[Bank of Italy Occasional Paper n. 720](https://www.bancaditalia.it/pubblicazioni/qef/2022-0720/QEF_720.pdf) — <span class="journal">Energy Policy</span>, Volume 182, November 2023 · [doi](https://doi.org/10.1016/j.enpol.2023.113744)
-
-**The impact of Chinese import competition on Italian manufacturing**  
-with [Andrea Linarello](https://sites.google.com/site/andrealinarello/home)  
-[WorkINPS paper n. 26](https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkInps_Papers/26_WorkINPS_Linarello_Citino_dicembre_2019.pdf) · [Bank of Italy Working Paper n. 1345](https://www.bancaditalia.it/pubblicazioni/temi-discussione/2021/2021-1345/en_tema_1345.pdf?language_id=1) — <span class="journal">Review of International Economics</span>, Volume 30, August 2022, pp. 702–731 · [doi](https://onlinelibrary.wiley.com/doi/10.1111/roie.12587)
-
----
-
-#### Working papers
-
-**Firms in the energy crisis: evidence from 2021–2022**  
-with [Matteo Alpino](https://sites.google.com/site/alpinomtt) and [Annalisa Frigo](https://annalisafrigo.weebly.com/)  
-[paper](https://luca-citino.github.io/docs/acf_april25_c.pdf) — reject and resubmit at the <span class="journal">Journal of Public Economics</span>
-
-**Wage contracts and financial frictions**  
-with [Cedomir Malgieri](https://www.cedomirmalgieri.com)  
-[Most recent version](https://cedomirm.github.io/website/MC_JMP.pdf)
-
----
-
-#### Selected work in progress
-
-**No Country for Young Managers: How Age and Tenure Shape the Distribution of Italian Firms**
-with [Marta Morazzoni](https://martamorazzoni.weebly.com/), [Stefano Pietrosanti](https://sites.google.com/sas.upenn.edu/stefanopietrosanti/home) and [Guido Spanó](https://www.linkedin.com/in/thespannung)
-
-**Hydrogen Valleys**
-with [Francesco Del Prato](https://francescodelprato.github.io/), [Lorenzo Incoronato](https://www.lorenzoincoronato.com/) and [Salvatore Lattanzio](https://sites.google.com/view/salvatore-lattanzio/home)
-part of the INPS _VisitPNRR_ program
-
-**Energy shocks and corporate resilience: evidence from energy-intensive firms**
-with [Matteo Alpino](https://sites.google.com/site/alpinomtt/home)
-
-
----
-
-#### Chapter in books
-
-**Accessing development assistance data and statistics**  
-with [Eduardo Missoni](http://eduardomissoni.info/?lang=en)  
-in <span class="journal">Management of International Institutions and NGOs</span> (2013), Routledge, pp. 227–236
+<div class="paper-item">
+  <div class="paper-title">The impact of Chinese import competition on Italian manufacturing</div>
+  <div class="paper-authors">with <a href="https://sites.google.com/site/andrealinarello/home">Andrea Linarello</a></div>
+  <div class="paper-links">
+    <span class="journal-badge">Review of International Economics</span>
+    <a href="https://www.bancaditalia.it/pubblicazioni/temi-discussione/2021/2021-1345/en_tema_1345.pdf?language_id=1">Bank of Italy WP 1345</a>
+    <span class="sep">·</span>
+    <a href="https://onlinelibrary.wiley.com/doi/10.1111/roie.12587">doi</a>
+  </div>
+</div>
 
 ---
 
-#### Dormant projects
+<p class="section-label">Working papers</p>
 
-**Adverse selection and choice frictions in crop insurance against climate risk**  
-with [Alessandro Palma](https://sites.google.com/view/alessandropalma/home) and [Matteo Paradisi](https://www.matteoparadisi.com/)  
-[paper](https://luca-citino.github.io/docs/cpp_aug20204.pdf)
+<div class="paper-item">
+  <div class="paper-title">Firms in the energy crisis: evidence from 2021–2022</div>
+  <div class="paper-authors">with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a></div>
+  <div class="paper-links">
+    <span class="status-badge">R&amp;R — Journal of Public Economics</span>
+    <a href="https://luca-citino.github.io/docs/acf_april25_c.pdf">paper</a>
+  </div>
+</div>
 
-**What are the returns to apprenticeships? Evidence from Italy**  
-[WorkINPS paper n. 21](https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkINPS_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf)
+<div class="paper-item">
+  <div class="paper-title">Wage contracts and financial frictions</div>
+  <div class="paper-authors">with <a href="https://www.cedomirmalgieri.com">Cedomir Malgieri</a></div>
+  <div class="paper-links">
+    <a href="https://cedomirm.github.io/website/MC_JMP.pdf">most recent version</a>
+  </div>
+</div>
 
-**Job reallocation from the 80s to the COVID-19 crisis and beyond. Evidence from administrative data**  
-with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette
+---
+
+<p class="section-label">Selected work in progress</p>
+
+<div class="paper-item">
+  <div class="paper-title">No country for young managers: how age and tenure shape the distribution of Italian firms</div>
+  <div class="paper-authors">with <a href="https://martamorazzoni.weebly.com/">Marta Morazzoni</a>, <a href="https://sites.google.com/sas.upenn.edu/stefanopietrosanti/home">Stefano Pietrosanti</a> and <a href="https://www.linkedin.com/in/thespannung">Guido Spanó</a></div>
+</div>
+
+<div class="paper-item">
+  <div class="paper-title">Hydrogen valleys</div>
+  <div class="paper-authors">with <a href="https://francescodelprato.github.io/">Francesco Del Prato</a>, <a href="https://www.lorenzoincoronato.com/">Lorenzo Incoronato</a> and <a href="https://sites.google.com/view/salvatore-lattanzio/home">Salvatore Lattanzio</a></div>
+  <div class="paper-authors" style="font-style: italic;">part of the INPS VisitPNRR program</div>
+</div>
+
+<div class="paper-item">
+  <div class="paper-title">Energy shocks and corporate resilience: evidence from energy-intensive firms</div>
+  <div class="paper-authors">with <a href="https://sites.google.com/site/alpinomtt/home">Matteo Alpino</a></div>
+</div>
+
+---
+
+<p class="section-label">Chapter in books</p>
+
+<div class="paper-item">
+  <div class="paper-title">Accessing development assistance data and statistics</div>
+  <div class="paper-authors">with <a href="http://eduardomissoni.info/?lang=en">Eduardo Missoni</a></div>
+  <div class="paper-links">
+    <span class="journal-badge">Management of International Institutions and NGOs</span>
+    <span style="font-size:13px; color: #666;">Routledge (2013), pp. 227–236</span>
+  </div>
+</div>
+
+---
+
+<p class="section-label">Dormant projects</p>
+
+<div class="paper-item">
+  <div class="paper-title">Adverse selection and choice frictions in crop insurance against climate risk</div>
+  <div class="paper-authors">with <a href="https://sites.google.com/view/alessandropalma/home">Alessandro Palma</a> and <a href="https://www.matteoparadisi.com/">Matteo Paradisi</a></div>
+  <div class="paper-links">
+    <a href="https://luca-citino.github.io/docs/cpp_aug20204.pdf">paper</a>
+  </div>
+</div>
+
+<div class="paper-item">
+  <div class="paper-title">What are the returns to apprenticeships? Evidence from Italy</div>
+  <div class="paper-links">
+    <a href="https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkINPS_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf">WorkINPS paper n. 21</a>
+  </div>
+</div>
+
+<div class="paper-item">
+  <div class="paper-title">Job reallocation from the 80s to the COVID-19 crisis and beyond</div>
+  <div class="paper-authors">with Edoardo Di Porto, Andrea Linarello, Francesca Lotti, Andrea Petrella and Enrico Sette</div>
+</div>
