@@ -3,6 +3,15 @@ layout: page
 title: Research
 ---
 
+<nav class="research-nav">
+  <a href="#publications">Publications</a>
+  <a href="#working-papers">Working papers</a>
+  <a href="#work-in-progress">Work in progress</a>
+  <a href="#other">Other</a>
+</nav>
+
+<p class="section-label" id="publications">Publications</p>
+
 <p class="section-label">Publications</p>
 
 <div class="paper-item">
