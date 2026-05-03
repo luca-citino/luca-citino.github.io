@@ -109,7 +109,7 @@ title: Research
 
 ---
 
-<p class="section-label">Chapter in books</p>
+<p class="section-label" id="other">Chapter in books</p>
 
 <div class="paper-item">
   <div class="paper-title">Accessing development assistance data and statistics</div>
@@ -122,7 +122,7 @@ title: Research
 
 ---
 
-<p class="section-label">Dormant projects</p>
+<p class="section-label" id="other">Dormant projects</p>
 
 <div class="paper-item">
   <div class="paper-title">Adverse selection and choice frictions in crop insurance against climate risk</div>
