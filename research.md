@@ -70,8 +70,7 @@ title: Research
 </div>
 
 ---
-
-<p class="section-label">Working papers</p>
+<p class="section-label" id="working-papers">Working papers</p>
 
 <div class="paper-item">
   <div class="paper-title">Firms in the energy crisis: evidence from 2021–2022</div>
@@ -92,7 +91,7 @@ title: Research
 
 ---
 
-<p class="section-label">Selected work in progress</p>
+<p class="section-label" id="work-in-progress" >Selected work in progress</p>
 
 <div class="paper-item">
   <div class="paper-title">No country for young managers: how age and tenure shape the distribution of Italian firms</div>
