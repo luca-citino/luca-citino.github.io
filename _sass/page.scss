@@ -76,6 +76,10 @@ body {
   }
 }
 
+/* Suppress JS-injected mobile toggle — nav is CSS-only */
+.navtoggle, .navicon-lines-button { display: none !important; }
+.nav ul, .js .nav ul { max-height: none !important; overflow: visible !important; }
+
 /* ── Page layout ── */
 
 #main {
