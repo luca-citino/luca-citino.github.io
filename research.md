@@ -12,8 +12,6 @@ title: Research
 
 <p class="section-label" id="publications">Publications</p>
 
-<p class="section-label">Publications</p>
-
 <div class="paper-item">
   <div class="paper-title">The (in)effectiveness of targeted payroll tax reductions</div>
   <div class="paper-authors">with <a href="https://sites.google.com/site/alessandrafenizia/">Alessandra Fenizia</a> and <a href="https://sites.google.com/view/nicholasli">Nicholas Li</a></div>
