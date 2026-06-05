@@ -75,7 +75,7 @@ title: Research
   <div class="paper-authors">with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a></div>
   <div class="paper-links">
     <span class="status-badge">R&amp;R — Journal of Public Economics</span>
-    <a href="https://luca-citino.github.io/docs/acf_april25_c.pdf">paper</a>
+    <a href="https://luca-citino.github.io/docs/acf_may2026.pdf">paper</a>
   </div>
 </div>
 
