@@ -74,7 +74,7 @@ title: Research
   <div class="paper-title">Firms in the energy crisis: evidence from 2021–2022</div>
   <div class="paper-authors">with <a href="https://sites.google.com/site/alpinomtt">Matteo Alpino</a> and <a href="https://annalisafrigo.weebly.com/">Annalisa Frigo</a></div>
   <div class="paper-links">
-    <span class="status-badge">R&amp;R — Journal of Public Economics</span>
+    <span class="status-badge">submitted</span>
     <a href="https://luca-citino.github.io/docs/acf_may2026.pdf">paper</a>
   </div>
 </div>
