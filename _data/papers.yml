@@ -18,6 +18,8 @@
 #   links:    list of { label, url }, shown as a row separated by dots.
 #   abstract: if present, an "Abstract" toggle appears under the links.
 #             Use `>-` and indent the text, as in the examples below.
+#             For published papers, use the abstract of the published
+#             version — journals often rewrite it during revisions.
 # ============================================================================
 
 - section: Publications
@@ -36,6 +38,8 @@
           url: https://luca-citino.github.io/docs/FLC_2025Jan7.pdf
         - label: doi
           url: https://doi.org/10.1093/ej/ueag017
+      # TODO: this is the January 2025 working paper text — replace with the
+      # abstract of the published Economic Journal version.
       abstract: >-
         This paper studies the cost-effectiveness of targeted payroll taxes for
         stimulating labor demand. It uses rich administrative data to study the
@@ -59,6 +63,9 @@
           url: https://luca-citino.github.io/docs/targeted_ui-5.pdf
         - label: doi
           url: https://doi.org/10.1093/ej/ueaf105
+      # TODO: this is the October 2024 working paper text. The published
+      # Economic Journal version reframes the paper around a sufficient
+      # statistics framework for targeted social insurance — replace it.
       abstract: >-
         In this paper we study the selection patterns of individuals who manage to
         have their layoff delayed around an age-at-layoff threshold entitling them
@@ -106,6 +113,8 @@
           url: https://www.bancaditalia.it/pubblicazioni/temi-discussione/2021/2021-1345/en_tema_1345.pdf?language_id=1
         - label: doi
           url: https://onlinelibrary.wiley.com/doi/10.1111/roie.12587
+      # TODO: this is the February 2021 working paper text — replace with the
+      # abstract of the published Review of International Economics version.
       abstract: >-
         This paper documents the effects of increased import competition from China
         on the Italian labor market. In line with recent studies (Autor et al.,
