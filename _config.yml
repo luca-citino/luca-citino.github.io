@@ -21,7 +21,7 @@ owner:
   # if your dashboard is at lucacitino.goatcounter.com, the code is
   # "lucacitino". Leave it blank and no analytics script is loaded at all.
   # Nothing is ever displayed on the site itself.
-  goatcounter:
+  goatcounter: luca-citino
   google:
     plus: #username
     analytics:
