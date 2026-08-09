@@ -1,0 +1,24 @@
+# ============================================================================
+# Short updates shown on the homepage: new drafts, acceptances, upcoming talks.
+#
+# Newest first — the page prints them in the order they appear here and shows
+# only the first few (set by `limit` in _includes/_news.html).
+# Delete every entry and the News section disappears from the homepage.
+#
+#   date: short label on the left, e.g. "May 2026". Any text works.
+#   text: the update itself. Markdown-style [links](https://...) are NOT
+#         processed here, so use plain HTML <a href="...">...</a> if you
+#         want a link.
+# ============================================================================
+
+- date: May 2026
+  text: >-
+    New draft of <em>Firms in the energy crisis: evidence from 2021–2022</em>,
+    with Matteo Alpino and Annalisa Frigo —
+    <a href="https://luca-citino.github.io/docs/acf_may2026.pdf">paper</a>.
+
+# Copy this shape for new entries:
+#
+# - date: September 2026
+#   text: >-
+#     Presenting <em>Hydrogen valleys</em> at the XYZ conference.

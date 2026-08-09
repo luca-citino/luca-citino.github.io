@@ -11,5 +11,7 @@ In 2020 I received a PhD in Economics from the LSE, where I worked under the sup
 
 For more information, please see my [CV](https://luca-citino.github.io/docs/cv_citino_nov2025.pdf).
 
+{% include _news.html %}
+
 
 

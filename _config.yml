@@ -17,6 +17,11 @@ owner:
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
+  # Privacy-friendly analytics (goatcounter.com). Put your site code here —
+  # if your dashboard is at lucacitino.goatcounter.com, the code is
+  # "lucacitino". Leave it blank and no analytics script is loaded at all.
+  # Nothing is ever displayed on the site itself.
+  goatcounter:
   google:
     plus: #username
     analytics:

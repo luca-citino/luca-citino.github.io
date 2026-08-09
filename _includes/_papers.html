@@ -1,0 +1,47 @@
+{% comment %}
+  Renders the research page from _data/papers.yml.
+  To change what appears on /research/, edit that file, not this one.
+{% endcomment %}
+
+<nav class="research-nav">
+  {%- for section in site.data.papers -%}
+    {%- if section.nav %}
+  <a href="#{{ section.anchor }}">{{ section.nav }}</a>
+    {%- endif -%}
+  {%- endfor %}
+</nav>
+
+{% for section in site.data.papers %}
+<p class="section-label" id="{{ section.anchor }}">{{ section.section }}</p>
+
+  {% for paper in section.papers %}
+<div class="paper-item">
+  <div class="paper-title">{{ paper.title }}</div>
+
+    {%- if paper.authors %}
+  <div class="paper-authors">with
+    {%- for author in paper.authors %} {% if author.url %}<a href="{{ author.url }}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}{% if forloop.rindex == 2 %} and{% else %},{% endif %}{% endunless %}{% endfor %}
+  </div>
+    {%- endif %}
+
+    {%- if paper.journal or paper.status or paper.note or paper.links %}
+  <div class="paper-links">
+    {%- if paper.journal %}<span class="journal-badge">{{ paper.journal }}</span>{% endif -%}
+    {%- if paper.status %}<span class="status-badge">{{ paper.status }}</span>{% endif -%}
+    {%- for link in paper.links -%}
+      {% if forloop.index0 > 0 %}<span class="sep">·</span>{% endif %}
+      <a href="{{ link.url }}">{{ link.label }}</a>
+    {%- endfor -%}
+    {%- if paper.note %}<span class="paper-note">{{ paper.note }}</span>{% endif -%}
+  </div>
+    {%- endif %}
+
+    {%- if paper.abstract %}
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    <p>{{ paper.abstract }}</p>
+  </details>
+    {%- endif %}
+</div>
+  {% endfor %}
+{% endfor %}

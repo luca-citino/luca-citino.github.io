@@ -1,0 +1,256 @@
+# ============================================================================
+# Research page content.
+#
+# Everything on /research/ is generated from this file, so to add a paper you
+# add an entry here — you never touch HTML. The page renders the sections in
+# the order they appear below, and the sub-navigation at the top of the page
+# is built from the sections that have a `nav:` line.
+#
+# A paper entry can use any of these fields (all optional except `title`):
+#
+#   title:    the paper title.
+#   authors:  list of coauthors, each with a `name` and an optional `url`.
+#             Omit for solo-authored work. The page writes the "with ..." line
+#             for you, commas and "and" included.
+#   journal:  journal or series name — shown as a teal badge.
+#   status:   e.g. "submitted", "R&R at ..." — shown as a yellow badge.
+#   note:     small grey text after the badges (page numbers, programmes, ...).
+#   links:    list of { label, url }, shown as a row separated by dots.
+#   abstract: if present, an "Abstract" toggle appears under the links.
+#             Use `>-` and indent the text, as in the examples below.
+# ============================================================================
+
+- section: Publications
+  anchor: publications
+  nav: Publications
+  papers:
+    - title: The (in)effectiveness of targeted payroll tax reductions
+      authors:
+        - name: Alessandra Fenizia
+          url: https://sites.google.com/site/alessandrafenizia/
+        - name: Nicholas Li
+          url: https://sites.google.com/view/nicholasli
+      journal: The Economic Journal
+      links:
+        - label: paper
+          url: https://luca-citino.github.io/docs/FLC_2025Jan7.pdf
+        - label: doi
+          url: https://doi.org/10.1093/ej/ueag017
+      abstract: >-
+        This paper studies the cost-effectiveness of targeted payroll taxes for
+        stimulating labor demand. It uses rich administrative data to study the
+        effects of an Italian reform that raised social security contributions
+        for apprenticeship contracts but granted a substantial discount for firms
+        with 9 employees or less. The discount does not increase demand for
+        apprenticeship contracts. Instead, it subsidizes inframarginal hiring.
+        This reform is not cost-effective. Point estimates imply that each million
+        euros of foregone social security contributions supports the employment of
+        29 apprentices for one year and no permanent contracts (these estimates
+        are not statistically different from zero).
+
+    - title: Manipulation and selection in unemployment insurance
+      authors:
+        - name: Kilian Russ
+        - name: Vincenzo Scrutinio
+          url: https://sites.google.com/view/vincenzoscrutinio/home
+      journal: The Economic Journal
+      links:
+        - label: paper
+          url: https://luca-citino.github.io/docs/targeted_ui-5.pdf
+        - label: doi
+          url: https://doi.org/10.1093/ej/ueaf105
+      abstract: >-
+        In this paper we study the selection patterns of individuals who manage to
+        have their layoff delayed around an age-at-layoff threshold entitling them
+        to four additional months of unemployment insurance (UI), i.e.
+        manipulators. Using administrative data from Italy and bunching techniques,
+        we document substantial manipulation around the cutoff and show that
+        manipulators are selected on their long-term nonemployment risk but not on
+        their moral hazard cost. Finally, we develop a sufficient statistics
+        framework to assess how these findings affect optimal UI duration in
+        presence of manipulation.
+
+    - title: "Navigating the electric storm: assessing policy responses to Europe's energy shock"
+      authors:
+        - name: Matteo Alpino
+          url: https://sites.google.com/site/alpinomtt/home
+        - name: Emanuela Ciapanna
+          url: https://scholar.google.com/citations?user=HciEujcAAAAJ&hl=en
+        - name: Gabriele Rovigatti
+          url: https://sites.google.com/view/gabrielerovigatti/home
+      journal: The Electricity Journal
+      links:
+        - label: CEPR discussion paper
+          url: https://cepr.org/system/files/publication-files/DP19981.pdf
+        - label: doi
+          url: https://doi.org/10.1016/j.tej.2025.107474
+
+    - title: Costs and benefits of the green transition envisaged in the Italian NRRP
+      authors:
+        - name: Matteo Alpino
+        - name: Federica Zeni
+      journal: Energy Policy
+      links:
+        - label: Bank of Italy OP 720
+          url: https://www.bancaditalia.it/pubblicazioni/qef/2022-0720/QEF_720.pdf
+        - label: doi
+          url: https://doi.org/10.1016/j.enpol.2023.113744
+
+    - title: The impact of Chinese import competition on Italian manufacturing
+      authors:
+        - name: Andrea Linarello
+          url: https://sites.google.com/site/andrealinarello/home
+      journal: Review of International Economics
+      links:
+        - label: Bank of Italy WP 1345
+          url: https://www.bancaditalia.it/pubblicazioni/temi-discussione/2021/2021-1345/en_tema_1345.pdf?language_id=1
+        - label: doi
+          url: https://onlinelibrary.wiley.com/doi/10.1111/roie.12587
+      abstract: >-
+        This paper documents the effects of increased import competition from China
+        on the Italian labor market. In line with recent studies (Autor et al.,
+        2013, 2014), we take two complementary approaches and study both the
+        effects on local labor markets and on manufacturing workers. Our analysis
+        shows that the Italian local labor markets which were more exposed to
+        Chinese trade by means of their industry composition ended up suffering
+        larger manufacturing and overall employment losses. Nevertheless,
+        back-of-the-envelope calculations suggest that the aggregate effect on
+        total manufacturing employment is modest. At the individual level, contrary
+        to what has been documented for many developed countries, workers initially
+        employed in more exposed manufacturing industries did not suffer long term
+        losses in terms of lower earnings or more discontinuous careers. While they
+        were indeed less likely than other similar workers to continue working in
+        manufacturing, they were also able to carry out successful transitions
+        towards the non-tradable sector, in other areas with better job
+        opportunities.
+
+- section: Working papers
+  anchor: working-papers
+  nav: Working papers
+  papers:
+    - title: "Firms in the energy crisis: evidence from 2021–2022"
+      authors:
+        - name: Matteo Alpino
+          url: https://sites.google.com/site/alpinomtt
+        - name: Annalisa Frigo
+          url: https://annalisafrigo.weebly.com/
+      status: submitted
+      links:
+        - label: paper
+          url: https://luca-citino.github.io/docs/acf_may2026.pdf
+      abstract: >-
+        We quantify how large, unexpected energy-price hikes affect Italian
+        industrial firms during the 2021-22 energy crisis. For identification we
+        exploit the staggered expiration of fixed-price energy contracts. Contract
+        expiration raises firms' average per-unit cost of electricity and gas by 47
+        percent and 29 percent, respectively. Electricity demand does not respond,
+        while gas consumption falls only in the second half of 2022, with
+        substantial heterogeneity across firms. Gas-intensive firms, which account
+        for 80% of industrial gas consumption, are almost perfectly inelastic,
+        while other firms' price elasticity is -1.3. The estimated heterogeneity
+        has important implications for policy design. A simple incidence framework
+        shows that subsidies targeted to gas-intensive firms, combined with
+        pay-for-reduction schemes for other firms, can focus resources to the most
+        exposed consumers while achieving energy savings.
+
+    - title: Wage contracts and financial frictions
+      authors:
+        - name: Cedomir Malgieri
+          url: https://www.cedomirmalgieri.com
+      links:
+        - label: most recent version
+          url: https://cedomirm.github.io/website/MC_JMP.pdf
+
+- section: Selected work in progress
+  anchor: work-in-progress
+  nav: Work in progress
+  papers:
+    - title: "No country for young managers: how age and tenure shape the distribution of Italian firms"
+      authors:
+        - name: Marta Morazzoni
+          url: https://martamorazzoni.weebly.com/
+        - name: Stefano Pietrosanti
+          url: https://sites.google.com/sas.upenn.edu/stefanopietrosanti/home
+        - name: Guido Spanó
+          url: https://www.linkedin.com/in/thespannung
+
+    - title: Hydrogen valleys
+      authors:
+        - name: Francesco Del Prato
+          url: https://francescodelprato.github.io/
+        - name: Lorenzo Incoronato
+          url: https://www.lorenzoincoronato.com/
+        - name: Salvatore Lattanzio
+          url: https://sites.google.com/view/salvatore-lattanzio/home
+      note: part of the INPS VisitPNRR program
+
+    - title: "Energy shocks and corporate resilience: evidence from energy-intensive firms"
+      authors:
+        - name: Matteo Alpino
+          url: https://sites.google.com/site/alpinomtt/home
+
+- section: Chapter in books
+  anchor: chapters
+  nav: Other
+  papers:
+    - title: Accessing development assistance data and statistics
+      authors:
+        - name: Eduardo Missoni
+          url: http://eduardomissoni.info/?lang=en
+      journal: Management of International Institutions and NGOs
+      note: Routledge (2013), pp. 227–236
+
+- section: Dormant projects
+  anchor: dormant
+  papers:
+    - title: Adverse selection and choice frictions in crop insurance against climate risk
+      authors:
+        - name: Alessandro Palma
+          url: https://sites.google.com/view/alessandropalma/home
+        - name: Matteo Paradisi
+          url: https://www.matteoparadisi.com/
+      links:
+        - label: paper
+          url: https://luca-citino.github.io/docs/cpp_aug20204.pdf
+      abstract: >-
+        Despite the increased frequency of extreme weather events and large premium
+        subsidies, the use of climate-related crop insurance contracts in European
+        countries remains low. We investigate the economic factors behind these low
+        coverage rates by linking Italian administrative data on insurance
+        purchases and damage claims to high-frequency georeferenced data on weather
+        events. We focus on two potential explanations: inefficient pricing of
+        insurance contracts due to adverse selection and choice frictions that
+        create a wedge between the value of insurance and actual demand. To identify
+        adverse selection, we leverage a 2014 reform that lowered the cap for
+        premium subsidies in EU countries. This policy caused a reduction in demand
+        and an increase in average costs for insurers, indicating adverse selection.
+        Regarding frictions, we document through a staggered
+        difference-in-differences design that firms are more likely to buy insurance
+        when faced with "salient" extreme events, suggesting that farmers are
+        imperfectly informed about the value they assign to insurance. We conclude
+        by discussing how current price subsidies may be less effective than
+        insurance mandates in light of these uncovered market failures.
+
+    - title: "What are the returns to apprenticeships? Evidence from Italy"
+      links:
+        - label: WorkINPS paper n. 21
+          url: https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkINPS_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf
+
+    - title: Job reallocation from the 80s to the COVID-19 crisis and beyond
+      authors:
+        - name: Edoardo Di Porto
+        - name: Andrea Linarello
+        - name: Francesca Lotti
+        - name: Andrea Petrella
+        - name: Enrico Sette
+      abstract: >-
+        This paper examines job reallocation in Italy from the 1980s to 2022,
+        comparing the COVID-19 pandemic with previous recessions. Using
+        administrative data for the universe of Italian firms, in contrast with
+        recent evidence from the U.S. and with other recession episodes in Italy,
+        we document that job reallocation decreased during the pandemic. While job
+        reallocation between industries increased slightly, within-industry
+        movements dropped sharply and substantially, driving aggregate trends. This
+        decrease can be attributed to short-time work programs, more widespread
+        during COVID-19 than in past recessions and more prevalent in Europe than
+        in the U.S.

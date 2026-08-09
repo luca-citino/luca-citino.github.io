@@ -1,0 +1,17 @@
+{% comment %}
+  Homepage news list, from _data/news.yml. Renders nothing when that file is
+  empty. Change `limit` below to show more or fewer entries.
+{% endcomment %}
+
+{% if site.data.news and site.data.news.size > 0 %}
+<p class="section-label">News</p>
+
+<ul class="news-list">
+  {%- for item in site.data.news limit: 4 %}
+  <li>
+    <span class="news-date">{{ item.date }}</span>
+    <span class="news-text">{{ item.text }}</span>
+  </li>
+  {%- endfor %}
+</ul>
+{% endif %}
