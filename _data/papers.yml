@@ -38,8 +38,6 @@
           url: https://luca-citino.github.io/docs/FLC_2025Jan7.pdf
         - label: doi
           url: https://doi.org/10.1093/ej/ueag017
-      # TODO: this is the January 2025 working paper text — replace with the
-      # abstract of the published Economic Journal version.
       abstract: >-
         This paper studies the cost-effectiveness of targeted payroll taxes for
         stimulating labor demand. It uses rich administrative data to study the
@@ -63,19 +61,16 @@
           url: https://luca-citino.github.io/docs/targeted_ui-5.pdf
         - label: doi
           url: https://doi.org/10.1093/ej/ueaf105
-      # TODO: this is the October 2024 working paper text. The published
-      # Economic Journal version reframes the paper around a sufficient
-      # statistics framework for targeted social insurance — replace it.
       abstract: >-
-        In this paper we study the selection patterns of individuals who manage to
-        have their layoff delayed around an age-at-layoff threshold entitling them
-        to four additional months of unemployment insurance (UI), i.e.
+        In this paper, we study the selection patterns of individuals who manage to
+        have their lay-off delayed around an age at lay-off threshold entitling
+        them to four additional months of unemployment insurance, that is,
         manipulators. Using administrative data from Italy and bunching techniques,
-        we document substantial manipulation around the cutoff and show that
-        manipulators are selected on their long-term nonemployment risk but not on
-        their moral hazard cost. Finally, we develop a sufficient statistics
-        framework to assess how these findings affect optimal UI duration in
-        presence of manipulation.
+        we document substantial manipulation around the cut-off and show that
+        manipulators are selected on their long-term non-employment risk, but not
+        on their moral hazard cost. Finally, we develop a sufficient statistics
+        framework to assess how these findings affect optimal unemployment
+        insurance duration in the presence of manipulation.
 
     - title: "Navigating the electric storm: assessing policy responses to Europe's energy shock"
       authors:
@@ -91,6 +86,20 @@
           url: https://cepr.org/system/files/publication-files/DP19981.pdf
         - label: doi
           url: https://doi.org/10.1016/j.tej.2025.107474
+      abstract: >-
+        We take an off-the-shelf model of the day-ahead electricity market, in the
+        spirit of (Reguant, 2019) and use it to study how different emergency
+        policy interventions proposed in response to the 2021–2022 European energy
+        crisis would feed into short run wholesale electricity price and quantity
+        dynamics. Calibrating the model to Italian data, our analysis predicts that
+        an EU-wide cap on natural gas prices significantly reduces electricity
+        prices, while consumed quantities increase only marginally. A mandated
+        reduction in electricity demand during peak hours leads to modest price
+        declines, while a national cap on gas prices for electricity generation
+        triggers a sharper increase in consumption due to cross-border trade
+        incentives. These findings suggest that emergency interventions can mitigate
+        the short-term impact of price shocks, though they may also introduce
+        inefficiencies in terms of energy consumption and market distortions.
 
     - title: Costs and benefits of the green transition envisaged in the Italian NRRP
       authors:
@@ -102,6 +111,19 @@
           url: https://www.bancaditalia.it/pubblicazioni/qef/2022-0720/QEF_720.pdf
         - label: doi
           url: https://doi.org/10.1016/j.enpol.2023.113744
+      abstract: >-
+        We perform an analysis of the green investments contained in the Italian
+        National Recovery and Resilience Plan (NRRP) by comparing environmental
+        benefits to the investment cost. We compute the future discounted
+        environmental benefits in terms of expected greenhouse gases emission
+        reductions using various estimates of the Social Cost of Carbon. Our results
+        suggest that several projects would not have a positive net present value,
+        unless the discount rate is relatively low and benefits accruing to
+        developing countries receive a higher weight. The fact that investments
+        under the NRRP are financed via long-term debt helps in bridging the gap
+        between costs and environmental benefits. Investments in renewable energy
+        are an exception, as their environmental benefits outweigh the cost within
+        a short time-frame.
 
     - title: The impact of Chinese import competition on Italian manufacturing
       authors:
@@ -113,25 +135,22 @@
           url: https://www.bancaditalia.it/pubblicazioni/temi-discussione/2021/2021-1345/en_tema_1345.pdf?language_id=1
         - label: doi
           url: https://onlinelibrary.wiley.com/doi/10.1111/roie.12587
-      # TODO: this is the February 2021 working paper text — replace with the
-      # abstract of the published Review of International Economics version.
       abstract: >-
         This paper documents the effects of increased import competition from China
-        on the Italian labor market. In line with recent studies (Autor et al.,
-        2013, 2014), we take two complementary approaches and study both the
-        effects on local labor markets and on manufacturing workers. Our analysis
-        shows that the Italian local labor markets which were more exposed to
-        Chinese trade by means of their industry composition ended up suffering
-        larger manufacturing and overall employment losses. Nevertheless,
-        back-of-the-envelope calculations suggest that the aggregate effect on
-        total manufacturing employment is modest. At the individual level, contrary
-        to what has been documented for many developed countries, workers initially
-        employed in more exposed manufacturing industries did not suffer long term
-        losses in terms of lower earnings or more discontinuous careers. While they
-        were indeed less likely than other similar workers to continue working in
-        manufacturing, they were also able to carry out successful transitions
-        towards the non-tradable sector, in other areas with better job
-        opportunities.
+        on the Italian labor market. In line with recent studies, we take two
+        complementary approaches and study both the effects on local labor markets
+        and on manufacturing workers. Our analysis shows that the Italian local
+        labor markets which were more exposed to Chinese trade by means of their
+        industry composition ended up suffering larger manufacturing and overall
+        employment losses. Nevertheless, back-of-the-envelope calculations suggest
+        that the aggregate effect on total manufacturing employment is modest. At
+        the individual level, contrary to what has been documented for many
+        developed countries, workers initially employed in more exposed
+        manufacturing industries did not suffer long-term losses in terms of lower
+        earnings or more discontinuous careers. While they were indeed less likely
+        than other similar workers to continue working in manufacturing, they were
+        also able to carry out successful transitions toward the non-tradable
+        sector, in other areas with better job opportunities.
 
 - section: Working papers
   anchor: working-papers
@@ -169,6 +188,24 @@
       links:
         - label: most recent version
           url: https://cedomirm.github.io/website/MC_JMP.pdf
+      abstract: >-
+        Financial crises often lead to drastic reductions in firms' access to
+        credit, impairing their ability to finance operations. This paper shows
+        that firms partly offset the effects of these shocks by optimally adjusting
+        their wage bills. We augment a standard model of firm dynamics with
+        financial frictions by allowing wages to be set at the firm level within
+        long-term employment relationships. In this environment, wages solve a
+        dynamic contracting problem that trades off insuring risk-averse workers
+        against preserving resources for investment. We validate the model
+        predictions on wage dynamics using matched employer-employee data from
+        Italy. We find that more constrained firms adjust wages more in response to
+        idiosyncratic and aggregate shocks. In addition, firms that suffer the most
+        during recessions backload wages by paying workers relatively more in the
+        future than today. When matching these statistics with our general
+        equilibrium model, we find that these wage adjustments reduce the
+        sensitivity of output to financial shocks by 20%. We conclude by studying
+        the effects of investment subsidies: firms backload wages more in response
+        to the policy, making the policy more effective.
 
 - section: Selected work in progress
   anchor: work-in-progress
@@ -244,6 +281,23 @@
       links:
         - label: WorkINPS paper n. 21
           url: https://www.inps.it/docallegatiNP/Mig/InpsComunica/WorkINPS_Papers/21_luglio_2020_aggiornamento_WorkINPS_papers.pdf
+      abstract: >-
+        What are the returns to apprenticeships? This paper tries to answer this
+        question by leveraging novel administrative data from Italy on individual
+        careers. We adopt a difference-in-difference methodology to compare the
+        labor market outcomes of individuals starting an apprenticeship with those
+        of similar individuals starting temporary contracts that, at least
+        formally, do not provide training. We find apprenticeships to be a
+        "double-edged sword". While they do guarantee a stronger labor market
+        attachment during the first three years after the start of the contract,
+        they produce ambiguous effects afterwards. Apprenticeships increase the
+        probability of conversion to open-ended contracts, especially at the initial
+        firm, but decrease the probability of obtaining further temporary jobs,
+        especially at other firms. Quantitatively, this second effect prevails,
+        generating a negative effect of the probability of having any job. These
+        findings are consistent with a model where retention rates after the end of
+        an apprenticeship convey stronger signals about workers' ability compared
+        to retention after the end of a temporary contract.
 
     - title: Job reallocation from the 80s to the COVID-19 crisis and beyond
       authors:
