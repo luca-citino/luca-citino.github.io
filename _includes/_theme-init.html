@@ -1,0 +1,25 @@
+<script>
+  /* Night mode: apply the stored (or system) preference before the page is
+     painted, so a dark reload never flashes white. Must stay inline in <head>
+     — an external file would load too late. Pairs with _sass/dark.scss and
+     the moon/sun button in _navigation.html. */
+  (function () {
+    var root = document.documentElement;
+    var stored = null;
+    try { stored = localStorage.getItem('theme'); } catch (e) {}
+
+    var mq = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
+    var dark = stored ? stored === 'dark' : !!(mq && mq.matches);
+    if (dark) { root.setAttribute('data-theme', 'dark'); }
+
+    /* Follow the OS setting as long as the visitor has not picked a side. */
+    if (!stored && mq && mq.addEventListener) {
+      mq.addEventListener('change', function (e) {
+        try { if (localStorage.getItem('theme')) { return; } } catch (err) {}
+        if (e.matches) { root.setAttribute('data-theme', 'dark'); }
+        else { root.removeAttribute('data-theme'); }
+        if (window.syncThemeToggle) { window.syncThemeToggle(); }
+      });
+    }
+  })();
+</script>

@@ -70,6 +70,12 @@ body {
 }
 
 .top-navigation {
+  display: flex;
+  align-items: center;
+  gap: 1.8rem;
+
+  nav { min-width: 0; }
+
   ul {
     margin: 0;
     padding: 0;
@@ -104,9 +110,54 @@ body {
      scrolled off the top of the page and were unreachable) */
   @media only screen and (max-width: 37.5em) {
     flex: 0 0 100%;
+    gap: 0.9rem;
+    nav { flex: 1; }
     ul { flex-wrap: wrap; gap: 0.5rem 1.1rem; }
     a { display: inline-block; padding: 4px 0; }
   }
+}
+
+/* ── Night-mode toggle (moon / sun) ── */
+
+.theme-toggle {
+  flex: 0 0 auto;
+  display: none;   /* revealed by the toggle script — a dead button without JS */
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  background: none;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  color: lighten($text-color, 35%);
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+
+  &:hover {
+    color: $teal;
+    border-color: $border-color;
+  }
+  &:focus-visible {
+    outline: 2px solid $teal;
+    outline-offset: 2px;
+  }
+
+  /* moon while the site is light (click = go dark), sun once it is dark */
+  .icon-sun { display: none; }
+
+  @media only screen and (max-width: 37.5em) {
+    /* sit at the right end of the first row of links, not floating between rows */
+    margin-left: auto;
+    align-self: flex-start;
+  }
+}
+
+html.has-theme-toggle .theme-toggle { display: inline-flex; }
+
+html[data-theme="dark"] .theme-toggle {
+  .icon-moon { display: none; }
+  .icon-sun  { display: inline; }
 }
 
 /* Suppress JS-injected mobile toggle — nav is CSS-only */

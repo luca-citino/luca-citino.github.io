@@ -1,0 +1,214 @@
+/* ==========================================================================
+   Night mode
+   --------------------------------------------------------------------------
+   Applied when <html> carries data-theme="dark" (set by the moon/sun toggle
+   in the navigation bar, persisted in localStorage; the system preference is
+   the default when no explicit choice has been made).
+
+   The light theme above is untouched: everything here is an override scoped
+   to [data-theme="dark"]. The teal brand colour is kept, but lightened —
+   #006F67 on a black background is far too dark to read.
+   ========================================================================== */
+
+$night-bg        : #0b0b0d;                    /* page background */
+$night-surface   : #131316;                    /* nav bar, footer */
+$night-text      : #e9e7e2;                    /* body copy */
+$night-muted     : #9c9a95;                    /* secondary text */
+$night-soft      : #c6c3bd;                    /* long secondary copy (abstracts) */
+$night-muted-2   : #83817c;                    /* tertiary text (dates, notes) */
+$night-border    : rgba(255,255,255,0.11);
+$night-teal      : #5ec4b6;                    /* the same green, lightened */
+$night-teal-soft : rgba(94,196,182,0.14);      /* badge / rule backgrounds */
+$night-teal-mid  : rgba(94,196,182,0.42);      /* link underlines */
+
+html[data-theme="dark"] {
+  color-scheme: dark;   /* dark scrollbars, form controls, focus rings */
+
+  body {
+    background-color: $night-bg;
+    color: $night-text;
+  }
+
+  ::-moz-selection { background-color: rgba(94,196,182,0.30); color: $night-text; }
+  ::selection      { background-color: rgba(94,196,182,0.30); color: $night-text; }
+
+  /* ── Navigation ── */
+
+  .navigation-wrapper {
+    background: $night-surface;
+    border-bottom-color: $night-border;
+  }
+
+  .site-name a {
+    color: $night-teal;
+    &:hover { color: lighten($night-teal, 8%); }
+  }
+
+  .top-navigation a {
+    color: $night-muted;
+    &:hover { color: $night-teal; }
+    &.active {
+      color: $night-teal;
+      border-bottom-color: $night-teal;
+    }
+  }
+
+  /* ── Author sidebar ── */
+
+  .article-author-side {
+    .bio-photo { border-color: rgba(94,196,182,0.35); }
+    h3 { color: $night-text; }
+    p  { color: $night-muted; }
+    .author-links { border-top-color: $night-border; }
+
+    @media only screen and (max-width: 37.5em) {
+      border-bottom-color: $night-border;
+    }
+  }
+
+  .author-social {
+    color: $night-muted;
+    &:visited { color: $night-muted; }
+    &:hover   { color: $night-teal; }
+  }
+
+  /* ── Article / page content ── */
+
+  .article-wrap {
+    p { color: $night-text; }
+
+    a {
+      color: $night-teal;
+      border-bottom-color: $night-teal-mid;
+      &:hover { border-bottom-color: $night-teal; }
+    }
+
+    h4 { color: $night-text; }
+    hr { border-top-color: $night-border; }
+  }
+
+  h1, h2, h3, h4, h5, h6 { color: $night-text; }
+
+  /* ── Research page: paper items ── */
+
+  .paper-item   { border-bottom-color: $night-border; }
+  .paper-title  { color: $night-text; }
+
+  .paper-authors {
+    color: $night-muted;
+    a {
+      color: $night-muted;
+      &:hover { color: $night-teal; }
+    }
+  }
+
+  .journal-badge {
+    color: $night-teal;
+    background: $night-teal-soft;
+  }
+
+  .status-badge {
+    color: #e2c46b;
+    background: rgba(226,196,107,0.13);
+  }
+
+  .paper-links {
+    a { color: $night-teal; }
+    .sep { color: $night-border; }
+  }
+
+  .paper-note { color: $night-muted-2; }
+
+  .paper-abstract {
+    summary {
+      color: $night-muted;
+      &:hover { color: $night-teal; }
+    }
+    &[open] summary { color: $night-teal; }
+    p {
+      color: $night-soft;
+      border-left-color: rgba(94,196,182,0.30);
+    }
+  }
+
+  /* ── Homepage news ── */
+
+  .news-list li { border-bottom-color: $night-border; }
+  .news-date    { color: $night-muted-2; }
+  .news-text    { color: $night-text; }
+
+  /* ── Section labels and sub-navigation ── */
+
+  .section-label {
+    color: $night-teal;
+    &::after { background: rgba(94,196,182,0.28); }
+  }
+
+  .research-nav {
+    border-bottom-color: $night-border;
+    a {
+      color: $night-muted;
+      &:hover { color: $night-teal; border-bottom-color: $night-teal; }
+    }
+  }
+
+  /* ── Footer ── */
+
+  .footer-wrap {
+    background: $night-surface;
+    border-top-color: $night-border;
+    footer {
+      color: $night-muted-2;
+      a { color: $night-muted; }
+    }
+  }
+
+  /* ── Misc ── */
+
+  .byline { color: $night-muted-2; }
+
+  .button {
+    background-color: $night-teal;
+    color: $night-bg;
+    &:hover { background-color: lighten($night-teal, 8%); color: $night-bg; }
+  }
+
+  a {
+    color: $night-teal;
+    &:visited { color: $night-teal; }
+    &:hover, &:focus { color: lighten($night-teal, 10%); }
+  }
+
+  figcaption, .image-credit, .image-credit a { color: $night-muted; }
+
+  blockquote { border-left-color: $night-border; }
+
+  hr {
+    border-top-color: $night-border;
+    border-bottom-color: transparent;
+  }
+
+  p, li {
+    code {
+      background-color: #1b1b1f;
+      border-color: rgba(255,255,255,0.13);
+      color: $night-text;
+    }
+  }
+
+  pre { color: $night-text; }
+
+  /* ── Resume layout (cvmain.css) ── */
+
+  .resume {
+    h1, h2 { color: $night-teal; }
+    h3     { color: rgba(94,196,182,0.75); }
+    code   { color: $night-text; background: none; border: none; }
+  }
+
+  .notice, .well {
+    background-color: $night-surface;
+    border-color: $night-border;
+    color: $night-text;
+  }
+}
