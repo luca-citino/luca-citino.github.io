@@ -120,31 +120,48 @@ body {
 /* ── Night-mode toggle (moon / sun) ── */
 
 .theme-toggle {
+  position: relative;
   flex: 0 0 auto;
   display: none;   /* revealed by the toggle script — a dead button without JS */
-  align-items: center;
-  justify-content: center;
-  width: 30px;
-  height: 30px;
+  width: 32px;
+  height: 32px;
   padding: 0;
-  background: none;
-  border: 1px solid transparent;
+  border: 1px solid $border-color;
   border-radius: 50%;
-  color: lighten($text-color, 35%);
+  background: rgba(0, 0, 0, 0.02);
+  color: lighten($text-color, 30%);
   cursor: pointer;
-  transition: color 0.15s, border-color 0.15s, background 0.15s;
+  -webkit-appearance: none;
+  appearance: none;
+  transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease,
+              transform 0.12s ease;
+
+  /* both icons sit in the same spot and cross-fade, so the swap is a small
+     sunrise rather than a jump cut */
+  svg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 16px;
+    height: 16px;
+    margin: -8px 0 0 -8px;
+    transition: opacity 0.25s ease, transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  /* by day, offer the moon */
+  .icon-moon { opacity: 1; transform: rotate(0deg) scale(1); }
+  .icon-sun  { opacity: 0; transform: rotate(-70deg) scale(0.4); }
 
   &:hover {
+    background: $teal-light;
+    border-color: rgba(0, 111, 103, 0.28);
     color: $teal;
-    border-color: $border-color;
   }
+  &:active { transform: scale(0.93); }
   &:focus-visible {
     outline: 2px solid $teal;
     outline-offset: 2px;
   }
-
-  /* moon while the site is light (click = go dark), sun once it is dark */
-  .icon-sun { display: none; }
 
   @media only screen and (max-width: 37.5em) {
     /* sit at the right end of the first row of links, not floating between rows */
@@ -155,9 +172,8 @@ body {
 
 html.has-theme-toggle .theme-toggle { display: inline-flex; }
 
-html[data-theme="dark"] .theme-toggle {
-  .icon-moon { display: none; }
-  .icon-sun  { display: inline; }
+@media (prefers-reduced-motion: reduce) {
+  .theme-toggle, .theme-toggle svg { transition: none; }
 }
 
 /* Suppress JS-injected mobile toggle — nav is CSS-only */

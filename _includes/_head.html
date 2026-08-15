@@ -27,7 +27,9 @@
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
+<!-- ?v= is the build time: GitHub Pages serves CSS with a 10-minute cache,
+     so without it a redesign can land while browsers still hold the old file. -->
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css?v={{ site.time | date: '%s' }}">
 
 {% include _theme-init.html %}
 

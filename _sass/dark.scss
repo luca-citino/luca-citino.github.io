@@ -53,6 +53,24 @@ html[data-theme="dark"] {
     }
   }
 
+  /* ── Night-mode toggle ── */
+
+  .theme-toggle {
+    background: rgba(255,255,255,0.05);
+    border-color: $night-border;
+    color: $night-muted;
+
+    &:hover {
+      background: $night-teal-soft;
+      border-color: rgba(94,196,182,0.35);
+      color: $night-teal;
+    }
+
+    /* by night, offer the sun */
+    .icon-moon { opacity: 0; transform: rotate(70deg) scale(0.4); }
+    .icon-sun  { opacity: 1; transform: rotate(0deg) scale(1); }
+  }
+
   /* ── Author sidebar ── */
 
   .article-author-side {
