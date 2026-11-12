@@ -156,7 +156,7 @@
   anchor: working-papers
   nav: Working papers
   papers:
-    - title: "Firms in the energy crisis: evidence from 2021–2022"
+    - title: "Supporting firms in energy crises: lessons from 2021–22"
       authors:
         - name: Matteo Alpino
           url: https://sites.google.com/site/alpinomtt
@@ -165,21 +165,24 @@
       status: submitted
       links:
         - label: paper
-          url: https://luca-citino.github.io/docs/acf_may2026.pdf
+          url: https://luca-citino.github.io/docs/acf_nov2026.pdf
       abstract: >-
-        We quantify how large, unexpected energy-price hikes affect Italian
-        industrial firms during the 2021-22 energy crisis. For identification we
-        exploit the staggered expiration of fixed-price energy contracts. Contract
-        expiration raises firms' average per-unit cost of electricity and gas by 47
-        percent and 29 percent, respectively. Electricity demand does not respond,
-        while gas consumption falls only in the second half of 2022, with
-        substantial heterogeneity across firms. Gas-intensive firms, which account
-        for 80% of industrial gas consumption, are almost perfectly inelastic,
-        while other firms' price elasticity is -1.3. The estimated heterogeneity
-        has important implications for policy design. A simple incidence framework
-        shows that subsidies targeted to gas-intensive firms, combined with
-        pay-for-reduction schemes for other firms, can focus resources to the most
-        exposed consumers while achieving energy savings.
+        Government support during energy crises shields firms from price shocks
+        but weakens incentives to conserve scarce energy. When demand responses
+        differ across firms, the equilibrium effects of support depend on the
+        consumption-weighted average price elasticity of demand. We estimate this
+        parameter by exploiting the staggered expiration of fixed-price contracts
+        among Italian industrial firms in the 2021–22 crisis. Electricity demand
+        does not respond to price increases, while gas consumption falls only in
+        the second half of 2022. Gas-intensive firms, which account for 80% of
+        industrial gas use, have almost perfectly inelastic demand; other firms
+        have an elasticity of −1.3. Embedding these estimates in a simple
+        incidence framework, we compare uniform and targeted subsidies, price
+        caps, and voluntary demand-reduction incentives. The average-firm
+        elasticity overstates the price and quantity effects of a uniform subsidy
+        by about 45%. Subsidizing gas-intensive firms while offering
+        demand-reduction incentives to other firms would reduce gas consumption
+        by 4.4%, whereas the average-firm elasticity predicts an increase.
 
     - title: Wage contracts and financial frictions
       authors:
